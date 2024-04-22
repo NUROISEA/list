@@ -1,0 +1,497 @@
+{
+    "AshtakaOOf": {
+        "Amedira": {
+            "Amedira-bV.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Amedira-bV.safetensors",
+            "Amedira-bV2.5.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Amedira-bV2.5.safetensors",
+            "Amedira-bV2.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Amedira-bV2.safetensors",
+            "Amedira-bV3.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Amedira-bV3.safetensors",
+            "Amedira-cV.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Amedira-cV.safetensors",
+            "Amedira-mV.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Amedira-mV.safetensors",
+            "Clips/clip-10.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Clips/clip-10.safetensors",
+            "Clips/clip-25.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Clips/clip-25.safetensors",
+            "Dreams/Amedira-Dimavand.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Dreams/Amedira-Dimavand.safetensors",
+            "Dreams/Amedira-Fuzzy.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Dreams/Amedira-Fuzzy.safetensors",
+            "Dreams/Amedira-Koofy.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Dreams/Amedira-Koofy.safetensors",
+            "Dreams/Amedira-Ligne.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Dreams/Amedira-Ligne.safetensors",
+            "Dreams/Amedira-Scenic.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Dreams/Amedira-Scenic.safetensors",
+            "Dreams/Amedira-Umi.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Dreams/Amedira-Umi.safetensors",
+            "Dreams/Amedira-Vendium.safetensors": "https://huggingface.co/AshtakaOOf/Amedira/resolve/main/Dreams/Amedira-Vendium.safetensors"
+        }
+    },
+    "breakcore2": {
+        "ligne_claire_anime_diffusion": {
+            "ligne_claire_anime_diffusion_v1.safetensors": "https://huggingface.co/breakcore2/ligne_claire_anime_diffusion/resolve/main/ligne_claire_anime_diffusion_v1.safetensors"
+        }
+    },
+    "cagliostrolab": {
+        "animagine-xl-3.0": {
+            "animagine-xl-3.0.safetensors": "https://huggingface.co/cagliostrolab/animagine-xl-3.0/resolve/main/animagine-xl-3.0.safetensors"
+        },
+        "animagine-xl-3.1": {
+            "animagine-xl-3.1.safetensors": "https://huggingface.co/cagliostrolab/animagine-xl-3.1/resolve/main/animagine-xl-3.1.safetensors"
+        }
+    },
+    "ckpt": {
+        "8528-diffusion": {
+            "8528d-final.ckpt": "https://huggingface.co/ckpt/8528-diffusion/resolve/main/8528d-final.ckpt"
+        }
+    },
+    "DrBob2142": {
+        "Everything": {
+            "Everything V1 A.safetensors": "https://huggingface.co/DrBob2142/Everything/resolve/main/Everything%20V1%20A.safetensors",
+            "Everything V1 Final .safetensors": "https://huggingface.co/DrBob2142/Everything/resolve/main/Everything%20V1%20Final%20.safetensors",
+            "Everything V1B.safetensors": "https://huggingface.co/DrBob2142/Everything/resolve/main/Everything%20V1B.safetensors"
+        },
+        "Midnight_Mixes": {
+            "Midnight Maple.safetensors": "https://huggingface.co/DrBob2142/Midnight_Mixes/resolve/main/Midnight%20Maple.safetensors",
+            "Midnight Melt.safetensors": "https://huggingface.co/DrBob2142/Midnight_Mixes/resolve/main/Midnight%20Melt.safetensors",
+            "Midnight Mixer Melt.safetensors": "https://huggingface.co/DrBob2142/Midnight_Mixes/resolve/main/Midnight%20Mixer%20Melt.safetensors"
+        },
+        "Mix-Models": {
+            "Blossom-extract.safetensors": "https://huggingface.co/DrBob2142/Mix-Models/resolve/main/Blossom-extract.safetensors",
+            "Docs 50 - 50 V2.safetensors": "https://huggingface.co/DrBob2142/Mix-Models/resolve/main/Docs%2050%20-%2050%20V2.safetensors",
+            "Midnight Mix Alt.safetensors": "https://huggingface.co/DrBob2142/Mix-Models/resolve/main/Midnight%20Mix%20Alt.safetensors",
+            "Midnight Mix.safetensors": "https://huggingface.co/DrBob2142/Mix-Models/resolve/main/Midnight%20Mix.safetensors",
+            "Midnight Mixer Alt V2 .safetensors": "https://huggingface.co/DrBob2142/Mix-Models/resolve/main/Midnight%20Mixer%20Alt%20V2%20.safetensors",
+            "Midnight Mixer V2 .safetensors": "https://huggingface.co/DrBob2142/Mix-Models/resolve/main/Midnight%20Mixer%20V2%20.safetensors",
+            "Midnight Shake .safetensors": "https://huggingface.co/DrBob2142/Mix-Models/resolve/main/Midnight%20Shake%20.safetensors",
+            "Yohan Bake V1.safetensors": "https://huggingface.co/DrBob2142/Mix-Models/resolve/main/Yohan%20Bake%20V1.safetensors",
+            "Yohan Potluck V1.safetensors": "https://huggingface.co/DrBob2142/Mix-Models/resolve/main/Yohan%20Potluck%20V1.safetensors",
+            "Yohan Potluck V2.safetensors": "https://huggingface.co/DrBob2142/Mix-Models/resolve/main/Yohan%20Potluck%20V2.safetensors",
+            "Yohan Spiced V1.safetensors": "https://huggingface.co/DrBob2142/Mix-Models/resolve/main/Yohan%20Spiced%20V1.safetensors",
+            "Yohan Spiced V2.safetensors": "https://huggingface.co/DrBob2142/Mix-Models/resolve/main/Yohan%20Spiced%20V2.safetensors"
+        }
+    },
+    "eimiss": {
+        "EimisAnimeDiffusion_2.0v": {
+            "EimisAnimeModel_2-0.safetensors": "https://huggingface.co/eimiss/EimisAnimeDiffusion_2.0v/resolve/main/EimisAnimeModel_2-0.safetensors",
+            "EimisAnimeModel_2-0_alternative.safetensors": "https://huggingface.co/eimiss/EimisAnimeDiffusion_2.0v/resolve/main/EimisAnimeModel_2-0_alternative.safetensors"
+        }
+    },
+    "etherealxx": {
+        "anygape-mix": {
+            "AnyV3Ga+ElysiumV3.safetensors": "https://huggingface.co/etherealxx/anygape-mix/resolve/main/AnyV3Ga%2BElysiumV3.safetensors",
+            "berrymix-V3Ga.safetensors": "https://huggingface.co/etherealxx/anygape-mix/resolve/main/berrymix-V3Ga.safetensors"
+        }
+    },
+    "GIMG": {
+        "AIChan_Model": {
+            "Blend/Base-U-Net.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/Base-U-Net.safetensors",
+            "Blend/MIX-Asanagi/AT/MIX-AT-V2.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Asanagi/AT/MIX-AT-V2.safetensors",
+            "Blend/MIX-Asanagi/MIX-Asanagi-V3.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Asanagi/MIX-Asanagi-V3.safetensors",
+            "Blend/MIX-Asanagi/MIX-Asanagi-V4.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Asanagi/MIX-Asanagi-V4.safetensors",
+            "Blend/MIX-BIG-V3/MIX-BIG-V3.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-BIG-V3/MIX-BIG-V3.safetensors",
+            "Blend/MIX-DoNot/MIX-DoNot-H.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-DoNot/MIX-DoNot-H.safetensors",
+            "Blend/MIX-DoNot/MIX-DoNot-S.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-DoNot/MIX-DoNot-S.safetensors",
+            "Blend/MIX-DoNot/MIX-DoNot-V5.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-DoNot/MIX-DoNot-V5.safetensors",
+            "Blend/MIX-donotusethis/MIX-DNUT-Hard.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-donotusethis/MIX-DNUT-Hard.safetensors",
+            "Blend/MIX-donotusethis/MIX-DNUT-Soft.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-donotusethis/MIX-DNUT-Soft.safetensors",
+            "Blend/MIX-donotusethis/V2/MIX-DNUT-V2_Soft.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-donotusethis/V2/MIX-DNUT-V2_Soft.safetensors",
+            "Blend/MIX-HIRES/MIX-HIRES-V1.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-HIRES/MIX-HIRES-V1.safetensors",
+            "Blend/MIX-HIRES/MIX-HIRES-V2.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-HIRES/MIX-HIRES-V2.safetensors",
+            "Blend/MIX-HIRES/MIX-HIRES-V3.5.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-HIRES/MIX-HIRES-V3.5.safetensors",
+            "Blend/MIX-HIRES/V3/MIX-HIRES-V3.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-HIRES/V3/MIX-HIRES-V3.safetensors",
+            "Blend/MIX-HIRES/V4/MIX-HIRES-V4.5.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-HIRES/V4/MIX-HIRES-V4.5.safetensors",
+            "Blend/MIX-HIRES/V4/MIX-HIRES-V4.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-HIRES/V4/MIX-HIRES-V4.safetensors",
+            "Blend/MIX-HIRES/V5/MIX-HIRES-V5.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-HIRES/V5/MIX-HIRES-V5.safetensors",
+            "Blend/MIX-Oekakizuki/MIX-Oekakizuki-V2.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Oekakizuki/MIX-Oekakizuki-V2.safetensors",
+            "Blend/MIX-Oekakizuki/MIX-Oekakizuki-V3.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Oekakizuki/MIX-Oekakizuki-V3.safetensors",
+            "Blend/MIX-Oekakizuki/MIX-Oekakizuki-V4.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Oekakizuki/MIX-Oekakizuki-V4.safetensors",
+            "Blend/MIX-Oekakizuki/source/MIX-Oekakizuki-L.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Oekakizuki/source/MIX-Oekakizuki-L.safetensors",
+            "Blend/MIX-Oekakizuki/source/MIX-Oekakizuki-LC.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Oekakizuki/source/MIX-Oekakizuki-LC.safetensors",
+            "Blend/MIX-Oekakizuki/source/MIX-PAU.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Oekakizuki/source/MIX-PAU.safetensors",
+            "Blend/MIX-Oekakizuki/source/MIX-PAUL-fp16.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Oekakizuki/source/MIX-PAUL-fp16.safetensors",
+            "Blend/MIX-Oekakizuki/source/MIX-PAULc-fp16.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Oekakizuki/source/MIX-PAULc-fp16.safetensors",
+            "Blend/MIX-Oekakizuki/source/MIX-PU.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Oekakizuki/source/MIX-PU.safetensors",
+            "Blend/MIX-Oekakizuki/source/MIX-PUL-fp16.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Oekakizuki/source/MIX-PUL-fp16.safetensors",
+            "Blend/MIX-Oekakizuki/source/MIX-PULc-fp16.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Oekakizuki/source/MIX-PULc-fp16.safetensors",
+            "Blend/MIX-P.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-P.safetensors",
+            "Blend/MIX-PPaiLo/MIX-PPaiLo-V2.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-PPaiLo/MIX-PPaiLo-V2.safetensors",
+            "Blend/MIX-Pro/K1/MIX-Pro-K1.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Pro/K1/MIX-Pro-K1.safetensors",
+            "Blend/MIX-Pro/K3/MIX-Pro-K3.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Pro/K3/MIX-Pro-K3.safetensors",
+            "Blend/MIX-Pro/K4/MIX-Pro-K4.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Pro/K4/MIX-Pro-K4.safetensors",
+            "Blend/MIX-Pro/MIX-Pro+Niji-Base.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Pro/MIX-Pro%2BNiji-Base.safetensors",
+            "Blend/MIX-Pro/MIX-Pro+Niji.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Pro/MIX-Pro%2BNiji.safetensors",
+            "Blend/MIX-Pro/MIX-Pro-Remaster.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Pro/MIX-Pro-Remaster.safetensors",
+            "Blend/MIX-Pro/T2/MIX-Pro-T2.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Pro/T2/MIX-Pro-T2.safetensors",
+            "Blend/MIX-Pro/V2/MIX-Pro-V2.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Pro/V2/MIX-Pro-V2.safetensors",
+            "Blend/MIX-Pro/V3.5/MIX-Pro-V3.5+Pastel.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Pro/V3.5/MIX-Pro-V3.5%2BPastel.safetensors",
+            "Blend/MIX-Pro/V3/MIX-Pro-V3.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Pro/V3/MIX-Pro-V3.safetensors",
+            "Blend/MIX-Pro/V4.5/MIX-Pro-V4.5+ColorBox.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Pro/V4.5/MIX-Pro-V4.5%2BColorBox.safetensors",
+            "Blend/MIX-Pro/V4/MIX-Pro-V4.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Pro/V4/MIX-Pro-V4.safetensors",
+            "Blend/MIX-Re/V3/MIX-ReV3.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Re/V3/MIX-ReV3.safetensors",
+            "Blend/MIX-Re/V4/MIX-ReV4.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Re/V4/MIX-ReV4.safetensors",
+            "Blend/MIX-Re/V5/MIX-ReV5.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Re/V5/MIX-ReV5.safetensors",
+            "Blend/MIX-Short/MIX-Short-V4.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Short/MIX-Short-V4.safetensors",
+            "Blend/MIX-Style/L1/MIX-Style-L1.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Style/L1/MIX-Style-L1.safetensors",
+            "Blend/MIX-Style/L2/MIX-Style-L2-fp16.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Style/L2/MIX-Style-L2-fp16.safetensors",
+            "Blend/MIX-Style/L2/MIX-Style-L2.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Style/L2/MIX-Style-L2.safetensors",
+            "Blend/MIX-Style/L3/MIX-Style-T3.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Style/L3/MIX-Style-T3.safetensors",
+            "Blend/MIX-Style/L4/MIX-Style-L4-fp16.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Style/L4/MIX-Style-L4-fp16.safetensors",
+            "Blend/MIX-Style/L4/MIX-Style-L4.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Style/L4/MIX-Style-L4.safetensors",
+            "Blend/MIX-Style/L5/MIX-Style-L5.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Style/L5/MIX-Style-L5.safetensors",
+            "Blend/MIX-Water/V1/MIX-Water-V1.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-Water/V1/MIX-Water-V1.safetensors",
+            "Lora/Antifreez3/Antifreez3.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Lora/Antifreez3/Antifreez3.safetensors",
+            "Lora/hizake/hi_lora.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Lora/hizake/hi_lora.safetensors",
+            "Lora/jtveemo/jtveemo_lora.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Lora/jtveemo/jtveemo_lora.safetensors",
+            "Temp/MIX-ACell.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Temp/MIX-ACell.safetensors",
+            "Temp/MIX-Antifreez3-fp16.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Temp/MIX-Antifreez3-fp16.safetensors",
+            "Temp/MIX-Atte-fp16.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Temp/MIX-Atte-fp16.safetensors"
+        }
+    },
+    "gsdf": {
+        "Counterfeit-V3.0": {
+            "Counterfeit-V3.0.safetensors": "https://huggingface.co/gsdf/Counterfeit-V3.0/resolve/main/Counterfeit-V3.0.safetensors",
+            "Counterfeit-V3.0_fix_fp16.safetensors": "https://huggingface.co/gsdf/Counterfeit-V3.0/resolve/main/Counterfeit-V3.0_fix_fp16.safetensors",
+            "Counterfeit-V3.0_fp16.safetensors": "https://huggingface.co/gsdf/Counterfeit-V3.0/resolve/main/Counterfeit-V3.0_fp16.safetensors",
+            "Counterfeit-V3.0_fp32.safetensors": "https://huggingface.co/gsdf/Counterfeit-V3.0/resolve/main/Counterfeit-V3.0_fp32.safetensors",
+            "embedding/EasyNegativeV2.safetensors": "https://huggingface.co/gsdf/Counterfeit-V3.0/resolve/main/embedding/EasyNegativeV2.safetensors"
+        }
+    },
+    "haor": {
+        "Evt_V3": {
+            "Evt_V3_ema.ckpt": "https://huggingface.co/haor/Evt_V3/resolve/main/Evt_V3_ema.ckpt"
+        }
+    },
+    "hesw23168": {
+        "SD-Elysium-Model": {
+            "Elysium_Anime_V1.ckpt": "https://huggingface.co/hesw23168/SD-Elysium-Model/resolve/main/Elysium_Anime_V1.ckpt",
+            "Elysium_Anime_V2.ckpt": "https://huggingface.co/hesw23168/SD-Elysium-Model/resolve/main/Elysium_Anime_V2.ckpt",
+            "Elysium_Anime_V3.safetensors": "https://huggingface.co/hesw23168/SD-Elysium-Model/resolve/main/Elysium_Anime_V3.safetensors",
+            "Elysium_V1.ckpt": "https://huggingface.co/hesw23168/SD-Elysium-Model/resolve/main/Elysium_V1.ckpt"
+        },
+        "SD_Shirayuki_Model": {
+            "Shirayuki_Anime_V1-fp16.safetensors": "https://huggingface.co/hesw23168/SD_Shirayuki_Model/resolve/main/Shirayuki_Anime_V1-fp16.safetensors",
+            "Shirayuki_General_V1-fp16.ckpt": "https://huggingface.co/hesw23168/SD_Shirayuki_Model/resolve/main/Shirayuki_General_V1-fp16.ckpt"
+        }
+    },
+    "Horsebird": {
+        "HDDream-G": {
+            "HDDream-Gape.ckpt": "https://huggingface.co/Horsebird/HDDream-G/resolve/main/HDDream-Gape.ckpt",
+            "HDDream-Gape.safetensors": "https://huggingface.co/Horsebird/HDDream-G/resolve/main/HDDream-Gape.safetensors"
+        }
+    },
+    "Hosioka": {
+        "Baka-Diffusion": {
+            "Safetensors/Baka-Diffusion[General].safetensors": "https://huggingface.co/Hosioka/Baka-Diffusion/resolve/main/Safetensors/Baka-Diffusion%5BGeneral%5D.safetensors",
+            "Safetensors/Baka-Diffusion[S3D].safetensors": "https://huggingface.co/Hosioka/Baka-Diffusion/resolve/main/Safetensors/Baka-Diffusion%5BS3D%5D.safetensors"
+        }
+    },
+    "iZELX1": {
+        "Grapefruit": {
+            "grapefruitV2.4.safetensors": "https://huggingface.co/iZELX1/Grapefruit/resolve/main/grapefruitV2.4.safetensors",
+            "grapefruitV3.1.ckpt": "https://huggingface.co/iZELX1/Grapefruit/resolve/main/grapefruitV3.1.ckpt",
+            "grapefruitV3.1.safetensors": "https://huggingface.co/iZELX1/Grapefruit/resolve/main/grapefruitV3.1.safetensors",
+            "grapefruitV3.2-Beta.ckpt": "https://huggingface.co/iZELX1/Grapefruit/resolve/main/grapefruitV3.2-Beta.ckpt",
+            "grapefruitV3.2-Beta.safetensors": "https://huggingface.co/iZELX1/Grapefruit/resolve/main/grapefruitV3.2-Beta.safetensors",
+            "grapefruitV3.safetensors": "https://huggingface.co/iZELX1/Grapefruit/resolve/main/grapefruitV3.safetensors",
+            "grapefruitV4.1.ckpt": "https://huggingface.co/iZELX1/Grapefruit/resolve/main/grapefruitV4.1.ckpt",
+            "grapefruitv4.safetensors": "https://huggingface.co/iZELX1/Grapefruit/resolve/main/grapefruitv4.safetensors",
+            "lemon.safetensors": "https://huggingface.co/iZELX1/Grapefruit/resolve/main/lemon.safetensors"
+        }
+    },
+    "junjuice0": {
+        "VOXO": {
+            "VOXO-v0-vtuber.safetensors": "https://huggingface.co/junjuice0/VOXO/resolve/main/VOXO-v0-vtuber.safetensors",
+            "VOXO-v0.ckpt": "https://huggingface.co/junjuice0/VOXO/resolve/main/VOXO-v0.ckpt",
+            "VOXO-v0.safetensors": "https://huggingface.co/junjuice0/VOXO/resolve/main/VOXO-v0.safetensors"
+        }
+    },
+    "Linaqruf": {
+        "animagine-xl": {
+            "animagine-xl.safetensors": "https://huggingface.co/Linaqruf/animagine-xl/resolve/main/animagine-xl.safetensors"
+        },
+        "animagine-xl-2.0": {
+            "animagine-xl-2.0.safetensors": "https://huggingface.co/Linaqruf/animagine-xl-2.0/resolve/main/animagine-xl-2.0.safetensors"
+        }
+    },
+    "mdl-mirror": {
+        "chameleon-ai-mix": {
+            "chameleonaiMix_v10.safetensors": "https://huggingface.co/mdl-mirror/chameleon-ai-mix/resolve/main/chameleonaiMix_v10.safetensors"
+        },
+        "dark-sushi-mix": {
+            "darkSushiMixMix_brighter.safetensors": "https://huggingface.co/mdl-mirror/dark-sushi-mix/resolve/main/darkSushiMixMix_brighter.safetensors",
+            "darkSushiMixMix_brighterPruned.safetensors": "https://huggingface.co/mdl-mirror/dark-sushi-mix/resolve/main/darkSushiMixMix_brighterPruned.safetensors",
+            "darkSushiMixMix_darker.safetensors": "https://huggingface.co/mdl-mirror/dark-sushi-mix/resolve/main/darkSushiMixMix_darker.safetensors",
+            "darkSushiMixMix_darkerPruned.safetensors": "https://huggingface.co/mdl-mirror/dark-sushi-mix/resolve/main/darkSushiMixMix_darkerPruned.safetensors"
+        },
+        "ExpMix_Line": {
+            "expmixLine_v10.safetensors": "https://huggingface.co/mdl-mirror/ExpMix_Line/resolve/main/expmixLine_v10.safetensors",
+            "expmixLine_v20.safetensors": "https://huggingface.co/mdl-mirror/ExpMix_Line/resolve/main/expmixLine_v20.safetensors",
+            "expmixLine_v3.safetensors": "https://huggingface.co/mdl-mirror/ExpMix_Line/resolve/main/expmixLine_v3.safetensors",
+            "expmixLine_v30.safetensors/expmixLine_v3.safetensors": "https://huggingface.co/mdl-mirror/ExpMix_Line/resolve/main/expmixLine_v30.safetensors/expmixLine_v3.safetensors"
+        },
+        "HentaiDiffusion": {
+            "HD-16-pruned.ckpt": "https://huggingface.co/mdl-mirror/HentaiDiffusion/resolve/main/HD-16-pruned.ckpt",
+            "HD-17-pruned.ckpt": "https://huggingface.co/mdl-mirror/HentaiDiffusion/resolve/main/HD-17-pruned.ckpt",
+            "HD-18-pruned.ckpt": "https://huggingface.co/mdl-mirror/HentaiDiffusion/resolve/main/HD-18-pruned.ckpt",
+            "HD-19-pruned.ckpt": "https://huggingface.co/mdl-mirror/HentaiDiffusion/resolve/main/HD-19-pruned.ckpt",
+            "HD-20-pruned.ckpt": "https://huggingface.co/mdl-mirror/HentaiDiffusion/resolve/main/HD-20-pruned.ckpt",
+            "HD-22-pruned.ckpt": "https://huggingface.co/mdl-mirror/HentaiDiffusion/resolve/main/HD-22-pruned.ckpt"
+        },
+        "mixProV35Lignes_v35": {
+            "mixProV35Lignes_v35-fp16.safetensors": "https://huggingface.co/mdl-mirror/mixProV35Lignes_v35/resolve/main/mixProV35Lignes_v35-fp16.safetensors",
+            "mixProV35Lignes_v35-fp32.safetensors": "https://huggingface.co/mdl-mirror/mixProV35Lignes_v35/resolve/main/mixProV35Lignes_v35-fp32.safetensors"
+        },
+        "WaifuAnything": {
+            "WaifuAnything-fp16-pruned.ckpt": "https://huggingface.co/mdl-mirror/WaifuAnything/resolve/main/WaifuAnything-fp16-pruned.ckpt",
+            "WaifuAnything-pruned.ckpt": "https://huggingface.co/mdl-mirror/WaifuAnything/resolve/main/WaifuAnything-pruned.ckpt"
+        }
+    },
+    "MehjourneyClosedAI": {
+        "OpenAnimeJourney": {
+            "OpenAnimeJourney.ckpt": "https://huggingface.co/MehjourneyClosedAI/OpenAnimeJourney/resolve/main/OpenAnimeJourney.ckpt"
+        }
+    },
+    "misobarisic": {
+        "playground": {
+            "AnyWolpGyokaiElysium.ckpt": "https://huggingface.co/misobarisic/playground/resolve/main/AnyWolpGyokaiElysium.ckpt",
+            "ArchonF222-fp16.ckpt": "https://huggingface.co/misobarisic/playground/resolve/main/ArchonF222-fp16.ckpt",
+            "ArchonInstagram-fp16.ckpt": "https://huggingface.co/misobarisic/playground/resolve/main/ArchonInstagram-fp16.ckpt",
+            "BerryMix-v2.ckpt": "https://huggingface.co/misobarisic/playground/resolve/main/BerryMix-v2.ckpt",
+            "FruityMix.ckpt": "https://huggingface.co/misobarisic/playground/resolve/main/FruityMix.ckpt",
+            "healysAnimeBlend_17.ckpt": "https://huggingface.co/misobarisic/playground/resolve/main/healysAnimeBlend_17.ckpt",
+            "HyperJourney.ckpt": "https://huggingface.co/misobarisic/playground/resolve/main/HyperJourney.ckpt",
+            "kribomix-v1-fp16.ckpt": "https://huggingface.co/misobarisic/playground/resolve/main/kribomix-v1-fp16.ckpt",
+            "kribomix-v1-full.ckpt": "https://huggingface.co/misobarisic/playground/resolve/main/kribomix-v1-full.ckpt",
+            "LoveJourney.ckpt": "https://huggingface.co/misobarisic/playground/resolve/main/LoveJourney.ckpt",
+            "padoruDiffusion_1.ckpt": "https://huggingface.co/misobarisic/playground/resolve/main/padoruDiffusion_1.ckpt",
+            "twam.ckpt": "https://huggingface.co/misobarisic/playground/resolve/main/twam.ckpt"
+        }
+    },
+    "Mods13": {
+        "CamelliaMix": {
+            "CamelliaMix/CamelliaMIx_V1.safetensors": "https://huggingface.co/Mods13/CamelliaMix/resolve/main/CamelliaMix/CamelliaMIx_V1.safetensors",
+            "CamelliaMix/Camelliamix_V2-fp16-pruned.safetensors": "https://huggingface.co/Mods13/CamelliaMix/resolve/main/CamelliaMix/Camelliamix_V2-fp16-pruned.safetensors",
+            "CamelliaMix/CamelliaMix_V2.safetensors": "https://huggingface.co/Mods13/CamelliaMix/resolve/main/CamelliaMix/CamelliaMix_V2.safetensors",
+            "CamelliaMix/CamelliaMix_V3.safetensors": "https://huggingface.co/Mods13/CamelliaMix/resolve/main/CamelliaMix/CamelliaMix_V3.safetensors",
+            "CamelliaMix_2.5D/CamelliaMix_2.5D_V1-fp16-pruned.safetensors": "https://huggingface.co/Mods13/CamelliaMix/resolve/main/CamelliaMix_2.5D/CamelliaMix_2.5D_V1-fp16-pruned.safetensors",
+            "CamelliaMix_2.5D/CamelliaMix_2.5D_V1.safetensors": "https://huggingface.co/Mods13/CamelliaMix/resolve/main/CamelliaMix_2.5D/CamelliaMix_2.5D_V1.safetensors",
+            "CamelliaMix_2.5D/CamelliaMix_2.5D_V2.safetensors": "https://huggingface.co/Mods13/CamelliaMix/resolve/main/CamelliaMix_2.5D/CamelliaMix_2.5D_V2.safetensors",
+            "CamelliaMix_2.5D/CamelliaMix_2.5D_V3.safetensors": "https://huggingface.co/Mods13/CamelliaMix/resolve/main/CamelliaMix_2.5D/CamelliaMix_2.5D_V3.safetensors",
+            "CamelliaMIx_Line/CamelliaMix_Line_V1-fp16-pruned.safetensors": "https://huggingface.co/Mods13/CamelliaMix/resolve/main/CamelliaMIx_Line/CamelliaMix_Line_V1-fp16-pruned.safetensors",
+            "CamelliaMIx_Line/CamelliaMIx_Line_V1.safetensors": "https://huggingface.co/Mods13/CamelliaMix/resolve/main/CamelliaMIx_Line/CamelliaMIx_Line_V1.safetensors",
+            "CamelliaMIx_Line/CamelliaMix_Line_V2.safetensors": "https://huggingface.co/Mods13/CamelliaMix/resolve/main/CamelliaMIx_Line/CamelliaMix_Line_V2.safetensors",
+            "CamelliaMix_NSFW/CamelliaMix_NSFW.safetensors": "https://huggingface.co/Mods13/CamelliaMix/resolve/main/CamelliaMix_NSFW/CamelliaMix_NSFW.safetensors",
+            "CamelliaMix_NSFW/CamelliaMIx_NSFW_V1.1.safetensors": "https://huggingface.co/Mods13/CamelliaMix/resolve/main/CamelliaMix_NSFW/CamelliaMIx_NSFW_V1.1.safetensors"
+        }
+    },
+    "neggles": {
+        "Andromeda": {
+            "AndromedaDX-v1.safetensors": "https://huggingface.co/neggles/Andromeda/resolve/main/AndromedaDX-v1.safetensors",
+            "AndromedaMV-v1.safetensors": "https://huggingface.co/neggles/Andromeda/resolve/main/AndromedaMV-v1.safetensors",
+            "AndromedaSV-v1.safetensors": "https://huggingface.co/neggles/Andromeda/resolve/main/AndromedaSV-v1.safetensors",
+            "AndromedaSX-v1.safetensors": "https://huggingface.co/neggles/Andromeda/resolve/main/AndromedaSX-v1.safetensors",
+            "AndromedaUnreal-v1.safetensors": "https://huggingface.co/neggles/Andromeda/resolve/main/AndromedaUnreal-v1.safetensors",
+            "UMMdromedaDX-A.fp16.safetensors": "https://huggingface.co/neggles/Andromeda/resolve/main/UMMdromedaDX-A.fp16.safetensors"
+        }
+    },
+    "NiteStormz": {
+        "ProtoThing_200": {
+            "AmbrosiaFusion.ckpt": "https://huggingface.co/NiteStormz/ProtoThing_200/resolve/main/AmbrosiaFusion.ckpt",
+            "ProtoThing_200.ckpt": "https://huggingface.co/NiteStormz/ProtoThing_200/resolve/main/ProtoThing_200.ckpt",
+            "ProtoThing_200_pruned.safetensors": "https://huggingface.co/NiteStormz/ProtoThing_200/resolve/main/ProtoThing_200_pruned.safetensors",
+            "ZestyFusion_200.safetensors": "https://huggingface.co/NiteStormz/ProtoThing_200/resolve/main/ZestyFusion_200.safetensors"
+        }
+    },
+    "NoCrypt": {
+        "animeinourworld-model": {
+            "animeinourworldep2.ckpt": "https://huggingface.co/NoCrypt/animeinourworld-model/resolve/main/animeinourworldep2.ckpt"
+        },
+        "BetterPastelMix": {
+            "BetterPastelMix.ckpt": "https://huggingface.co/NoCrypt/BetterPastelMix/resolve/main/BetterPastelMix.ckpt",
+            "pastelmix-better-vae.ckpt": "https://huggingface.co/NoCrypt/BetterPastelMix/resolve/main/pastelmix-better-vae.ckpt"
+        },
+        "delicate-mix": {
+            "avairy-fp16.safetensors": "https://huggingface.co/NoCrypt/delicate-mix/resolve/main/avairy-fp16.safetensors",
+            "avairy-fp32.safetensors": "https://huggingface.co/NoCrypt/delicate-mix/resolve/main/avairy-fp32.safetensors",
+            "delicate-mix-fp16.safetensors": "https://huggingface.co/NoCrypt/delicate-mix/resolve/main/delicate-mix-fp16.safetensors",
+            "delicate-mix-fp32.safetensors": "https://huggingface.co/NoCrypt/delicate-mix/resolve/main/delicate-mix-fp32.safetensors"
+        },
+        "momocha-mix": {
+            "momocha-6E7-0.315-AD-E6-0.15-WS.ckpt": "https://huggingface.co/NoCrypt/momocha-mix/resolve/main/momocha-6E7-0.315-AD-E6-0.15-WS.ckpt",
+            "momocha-6E7-0.315-AD-E7-0.15-WS.ckpt": "https://huggingface.co/NoCrypt/momocha-mix/resolve/main/momocha-6E7-0.315-AD-E7-0.15-WS.ckpt"
+        },
+        "SomethingAOM": {
+            "SomethingAOM.ckpt": "https://huggingface.co/NoCrypt/SomethingAOM/resolve/main/SomethingAOM.ckpt",
+            "SomethingAOM_handfix.ckpt": "https://huggingface.co/NoCrypt/SomethingAOM/resolve/main/SomethingAOM_handfix.ckpt"
+        },
+        "SomethingV1": {
+            "SomethingRaw.safetensors": "https://huggingface.co/NoCrypt/SomethingV1/resolve/main/SomethingRaw.safetensors"
+        },
+        "SomethingV2": {
+            "somethingv2.safetensors": "https://huggingface.co/NoCrypt/SomethingV2/resolve/main/somethingv2.safetensors",
+            "somethingv2_1.safetensors": "https://huggingface.co/NoCrypt/SomethingV2/resolve/main/somethingv2_1.safetensors"
+        },
+        "SomethingV2_2": {
+            "SomethingV2_2.safetensors": "https://huggingface.co/NoCrypt/SomethingV2_2/resolve/main/SomethingV2_2.safetensors"
+        },
+        "Sometimes": {
+            "sometimesv1.safetensors": "https://huggingface.co/NoCrypt/Sometimes/resolve/main/sometimesv1.safetensors"
+        }
+    },
+    "NUROISEA": {
+        "anything-mix": {
+            "anything-berry-30.ckpt": "https://huggingface.co/NUROISEA/anything-mix/resolve/main/anything-berry-30.ckpt",
+            "anything-f222-15-elysiumv2-10.ckpt": "https://huggingface.co/NUROISEA/anything-mix/resolve/main/anything-f222-15-elysiumv2-10.ckpt",
+            "anything-f222-15.ckpt": "https://huggingface.co/NUROISEA/anything-mix/resolve/main/anything-f222-15.ckpt",
+            "berrymix-v3.ckpt": "https://huggingface.co/NUROISEA/anything-mix/resolve/main/berrymix-v3.ckpt",
+            "blossom-extract.safetensors": "https://huggingface.co/NUROISEA/anything-mix/resolve/main/blossom-extract.safetensors",
+            "hentai-elysium-50.safetensors": "https://huggingface.co/NUROISEA/anything-mix/resolve/main/hentai-elysium-50.safetensors",
+            "nutmeg-mix.ckpt": "https://huggingface.co/NUROISEA/anything-mix/resolve/main/nutmeg-mix.ckpt",
+            "raspberry-mix.ckpt": "https://huggingface.co/NUROISEA/anything-mix/resolve/main/raspberry-mix.ckpt",
+            "strawberry-mix.ckpt": "https://huggingface.co/NUROISEA/anything-mix/resolve/main/strawberry-mix.ckpt"
+        },
+        "av3-mirror": {
+            "Anything-V3-full-pruned-fp16.safetensors": "https://huggingface.co/NUROISEA/av3-mirror/resolve/main/Anything-V3-full-pruned-fp16.safetensors",
+            "Anything-V3-full-pruned.safetensors": "https://huggingface.co/NUROISEA/av3-mirror/resolve/main/Anything-V3-full-pruned.safetensors",
+            "Anything-V3-full.safetensors": "https://huggingface.co/NUROISEA/av3-mirror/resolve/main/Anything-V3-full.safetensors"
+        },
+        "mixing-cauldron": {
+            "exsoular.safetensors": "https://huggingface.co/NUROISEA/mixing-cauldron/resolve/main/exsoular.safetensors",
+            "exsoulvoyant.safetensors": "https://huggingface.co/NUROISEA/mixing-cauldron/resolve/main/exsoulvoyant.safetensors",
+            "floral-essence.safetensors": "https://huggingface.co/NUROISEA/mixing-cauldron/resolve/main/floral-essence.safetensors",
+            "florescence.safetensors": "https://huggingface.co/NUROISEA/mixing-cauldron/resolve/main/florescence.safetensors",
+            "OrangeProBlossomPastel.safetensors": "https://huggingface.co/NUROISEA/mixing-cauldron/resolve/main/OrangeProBlossomPastel.safetensors",
+            "pastel-floral-essence.safetensors": "https://huggingface.co/NUROISEA/mixing-cauldron/resolve/main/pastel-floral-essence.safetensors"
+        },
+        "plmx-mirror": {
+            "pastelmix-fp16.safetensors": "https://huggingface.co/NUROISEA/plmx-mirror/resolve/main/pastelmix-fp16.safetensors",
+            "pastelmix-fp32.safetensors": "https://huggingface.co/NUROISEA/plmx-mirror/resolve/main/pastelmix-fp32.safetensors",
+            "pastelmix.safetensors": "https://huggingface.co/NUROISEA/plmx-mirror/resolve/main/pastelmix.safetensors"
+        }
+    },
+    "Rasgeath": {
+        "self_made_sauce": {
+            "AniMeth.safetensors": "https://huggingface.co/Rasgeath/self_made_sauce/resolve/main/AniMeth.safetensors",
+            "AniMethAlt.safetensors": "https://huggingface.co/Rasgeath/self_made_sauce/resolve/main/AniMethAlt.safetensors",
+            "Camembert-pruned.safetensors": "https://huggingface.co/Rasgeath/self_made_sauce/resolve/main/Camembert-pruned.safetensors",
+            "Kani-anime-pruned.ckpt": "https://huggingface.co/Rasgeath/self_made_sauce/resolve/main/Kani-anime-pruned.ckpt",
+            "Kani-anime.ckpt": "https://huggingface.co/Rasgeath/self_made_sauce/resolve/main/Kani-anime.ckpt",
+            "Kani.ckpt": "https://huggingface.co/Rasgeath/self_made_sauce/resolve/main/Kani.ckpt",
+            "Kani.safetensors": "https://huggingface.co/Rasgeath/self_made_sauce/resolve/main/Kani.safetensors",
+            "Kanime-parmesan0.5-ym0.3-ig0.1.safetensors": "https://huggingface.co/Rasgeath/self_made_sauce/resolve/main/Kanime-parmesan0.5-ym0.3-ig0.1.safetensors",
+            "Mozzarella-IG0.1-pruned.safetensors": "https://huggingface.co/Rasgeath/self_made_sauce/resolve/main/Mozzarella-IG0.1-pruned.safetensors",
+            "Mozzarella-IG0.2-pruned.safetensors": "https://huggingface.co/Rasgeath/self_made_sauce/resolve/main/Mozzarella-IG0.2-pruned.safetensors",
+            "Mozzarella-IG0.3-pruned.safetensors": "https://huggingface.co/Rasgeath/self_made_sauce/resolve/main/Mozzarella-IG0.3-pruned.safetensors",
+            "Mozzarella-pruned.safetensors": "https://huggingface.co/Rasgeath/self_made_sauce/resolve/main/Mozzarella-pruned.safetensors",
+            "Parmesan-pruned.safetensors": "https://huggingface.co/Rasgeath/self_made_sauce/resolve/main/Parmesan-pruned.safetensors"
+        }
+    },
+    "swl-models": {
+        "mix-pro-v3": {
+            "mix-pro-v3-ema-bf16.safetensors": "https://huggingface.co/swl-models/mix-pro-v3/resolve/main/mix-pro-v3-ema-bf16.safetensors",
+            "mix-pro-v3-ema-fp16.safetensors": "https://huggingface.co/swl-models/mix-pro-v3/resolve/main/mix-pro-v3-ema-fp16.safetensors",
+            "mix-pro-v3-ema-fp32.safetensors": "https://huggingface.co/swl-models/mix-pro-v3/resolve/main/mix-pro-v3-ema-fp32.safetensors",
+            "mix-pro-v3-non-ema-bf16.safetensors": "https://huggingface.co/swl-models/mix-pro-v3/resolve/main/mix-pro-v3-non-ema-bf16.safetensors",
+            "mix-pro-v3-non-ema-fp16.safetensors": "https://huggingface.co/swl-models/mix-pro-v3/resolve/main/mix-pro-v3-non-ema-fp16.safetensors",
+            "mix-pro-v3-non-ema-fp32.safetensors": "https://huggingface.co/swl-models/mix-pro-v3/resolve/main/mix-pro-v3-non-ema-fp32.safetensors",
+            "mix-pro-v3.safetensors": "https://huggingface.co/swl-models/mix-pro-v3/resolve/main/mix-pro-v3.safetensors"
+        }
+    },
+    "syaimu": {
+        "7th_Layer": {
+            "7th_anime_alpha_v4/7th_anime_v4A.safetensors": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_alpha_v4/7th_anime_v4A.safetensors",
+            "7th_anime_alpha_v4/7th_anime_v4B.safetensors": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_alpha_v4/7th_anime_v4B.safetensors",
+            "7th_anime_v1/7th_anime_v1.1.ckpt": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v1/7th_anime_v1.1.ckpt",
+            "7th_anime_v1/7th_anime_v1.1.safetensors": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v1/7th_anime_v1.1.safetensors",
+            "7th_anime_v2/7th_anime_v2_A.ckpt": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v2/7th_anime_v2_A.ckpt",
+            "7th_anime_v2/7th_anime_v2_A.safetensors": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v2/7th_anime_v2_A.safetensors",
+            "7th_anime_v2/7th_anime_v2_B-fix.ckpt": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v2/7th_anime_v2_B-fix.ckpt",
+            "7th_anime_v2/7th_anime_v2_B.ckpt": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v2/7th_anime_v2_B.ckpt",
+            "7th_anime_v2/7th_anime_v2_B.safetensors": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v2/7th_anime_v2_B.safetensors",
+            "7th_anime_v2/7th_anime_v2_C.ckpt": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v2/7th_anime_v2_C.ckpt",
+            "7th_anime_v2/7th_anime_v2_C.safetensors": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v2/7th_anime_v2_C.safetensors",
+            "7th_anime_v2/7th_anime_v2_G.ckpt": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v2/7th_anime_v2_G.ckpt",
+            "7th_anime_v2/7th_anime_v2_G.safetensors": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v2/7th_anime_v2_G.safetensors",
+            "7th_anime_v3/7th_anime_v3_A.ckpt": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v3/7th_anime_v3_A.ckpt",
+            "7th_anime_v3/7th_anime_v3_A.safetensors": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v3/7th_anime_v3_A.safetensors",
+            "7th_anime_v3/7th_anime_v3_B.ckpt": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v3/7th_anime_v3_B.ckpt",
+            "7th_anime_v3/7th_anime_v3_B.safetensors": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v3/7th_anime_v3_B.safetensors",
+            "7th_anime_v3/7th_anime_v3_C.ckpt": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v3/7th_anime_v3_C.ckpt",
+            "7th_anime_v3/7th_anime_v3_C.safetensors": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_anime_v3/7th_anime_v3_C.safetensors",
+            "7th_layer/Abyss_7th_layer.ckpt": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_layer/Abyss_7th_layer.ckpt",
+            "7th_layer/abyss_7th_layerG1.ckpt": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_layer/abyss_7th_layerG1.ckpt",
+            "7th_SemiR_v3.2/7th_SemiR_v3A.safetensors": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_SemiR_v3.2/7th_SemiR_v3A.safetensors",
+            "7th_SemiR_v3.2/7th_SemiR_v3B.safetensors": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_SemiR_v3.2/7th_SemiR_v3B.safetensors",
+            "7th_SemiR_v3.2/7th_SemiR_v3C.safetensors": "https://huggingface.co/syaimu/7th_Layer/resolve/main/7th_SemiR_v3.2/7th_SemiR_v3C.safetensors"
+        }
+    },
+    "TheRaphael0000": {
+        "mixes0000": {
+            "soul0000.ckpt": "https://huggingface.co/TheRaphael0000/mixes0000/resolve/main/soul0000.ckpt",
+            "underline0000.ckpt": "https://huggingface.co/TheRaphael0000/mixes0000/resolve/main/underline0000.ckpt"
+        }
+    },
+    "waifu-diffusion": {
+        "wd-1-5-beta3": {
+            "wd-beta3-base-fp16.safetensors": "https://huggingface.co/waifu-diffusion/wd-1-5-beta3/resolve/main/wd-beta3-base-fp16.safetensors",
+            "wd-illusion-fp16.safetensors": "https://huggingface.co/waifu-diffusion/wd-1-5-beta3/resolve/main/wd-illusion-fp16.safetensors",
+            "wd-ink-fp16.safetensors": "https://huggingface.co/waifu-diffusion/wd-1-5-beta3/resolve/main/wd-ink-fp16.safetensors",
+            "wd-mofu-fp16.safetensors": "https://huggingface.co/waifu-diffusion/wd-1-5-beta3/resolve/main/wd-mofu-fp16.safetensors",
+            "wd-radiance-fp16.safetensors": "https://huggingface.co/waifu-diffusion/wd-1-5-beta3/resolve/main/wd-radiance-fp16.safetensors"
+        }
+    },
+    "WarriorMama777": {
+        "OrangeMixs": {
+            "Models/AbyssOrangeMix/AbyssOrangeMix.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix/AbyssOrangeMix.safetensors",
+            "Models/AbyssOrangeMix/AbyssOrangeMix_base.ckpt": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix/AbyssOrangeMix_base.ckpt",
+            "Models/AbyssOrangeMix/AbyssOrangeMix_half.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix/AbyssOrangeMix_half.safetensors",
+            "Models/AbyssOrangeMix/AbyssOrangeMix_Night.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix/AbyssOrangeMix_Night.safetensors",
+            "Models/AbyssOrangeMix2/AbyssOrangeMix2_hard.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix2/AbyssOrangeMix2_hard.safetensors",
+            "Models/AbyssOrangeMix2/AbyssOrangeMix2_nsfw.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix2/AbyssOrangeMix2_nsfw.safetensors",
+            "Models/AbyssOrangeMix2/AbyssOrangeMix2_sfw.ckpt": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix2/AbyssOrangeMix2_sfw.ckpt",
+            "Models/AbyssOrangeMix2/AbyssOrangeMix2_sfw.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix2/AbyssOrangeMix2_sfw.safetensors",
+            "Models/AbyssOrangeMix2/Pruned/AbyssOrangeMix2_hard_pruned_fp16_with_VAE.ckpt": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix2/Pruned/AbyssOrangeMix2_hard_pruned_fp16_with_VAE.ckpt",
+            "Models/AbyssOrangeMix2/Pruned/AbyssOrangeMix2_hard_pruned_fp16_with_VAE.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix2/Pruned/AbyssOrangeMix2_hard_pruned_fp16_with_VAE.safetensors",
+            "Models/AbyssOrangeMix2/Pruned/AbyssOrangeMix2_nsfw_pruned_fp16_with_VAE.ckpt": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix2/Pruned/AbyssOrangeMix2_nsfw_pruned_fp16_with_VAE.ckpt",
+            "Models/AbyssOrangeMix2/Pruned/AbyssOrangeMix2_nsfw_pruned_fp16_with_VAE.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix2/Pruned/AbyssOrangeMix2_nsfw_pruned_fp16_with_VAE.safetensors",
+            "Models/AbyssOrangeMix2/Pruned/AbyssOrangeMix2_sfw_pruned_fp16_with_VAE.ckpt": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix2/Pruned/AbyssOrangeMix2_sfw_pruned_fp16_with_VAE.ckpt",
+            "Models/AbyssOrangeMix2/Pruned/AbyssOrangeMix2_sfw_pruned_fp16_with_VAE.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix2/Pruned/AbyssOrangeMix2_sfw_pruned_fp16_with_VAE.safetensors",
+            "Models/AbyssOrangeMix3/AOM3_orangemixs.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3_orangemixs.safetensors",
+            "Models/AbyssOrangeMix3/AOM3A1_orangemixs.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A1_orangemixs.safetensors",
+            "Models/AbyssOrangeMix3/AOM3A1B_orangemixs.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A1B_orangemixs.safetensors",
+            "Models/AbyssOrangeMix3/AOM3A2_orangemixs.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A2_orangemixs.safetensors",
+            "Models/AbyssOrangeMix3/AOM3A3_orangemixs.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A3_orangemixs.safetensors",
+            "Models/AbyssOrangeMix3/AOM3B2_orangemixs.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3B2_orangemixs.safetensors",
+            "Models/AbyssOrangeMix3/AOM3B3_orangemixs.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3B3_orangemixs.safetensors",
+            "Models/AbyssOrangeMix3/AOM3B4_orangemixs.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3B4_orangemixs.safetensors",
+            "Models/BloodOrangeMix/BloodNightOrangeMix.ckpt": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/BloodOrangeMix/BloodNightOrangeMix.ckpt",
+            "Models/BloodOrangeMix/BloodOrangeMix.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/BloodOrangeMix/BloodOrangeMix.safetensors",
+            "Models/BloodOrangeMix/BloodOrangeMix_half.ckpt": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/BloodOrangeMix/BloodOrangeMix_half.ckpt",
+            "Models/EerieOrangeMix/EerieOrangeMix.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/EerieOrangeMix/EerieOrangeMix.safetensors",
+            "Models/EerieOrangeMix/EerieOrangeMix2.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/EerieOrangeMix/EerieOrangeMix2.safetensors",
+            "Models/EerieOrangeMix/EerieOrangeMix2_base.ckpt": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/EerieOrangeMix/EerieOrangeMix2_base.ckpt",
+            "Models/EerieOrangeMix/EerieOrangeMix2_half.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/EerieOrangeMix/EerieOrangeMix2_half.safetensors",
+            "Models/EerieOrangeMix/EerieOrangeMix2_night.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/EerieOrangeMix/EerieOrangeMix2_night.safetensors",
+            "Models/EerieOrangeMix/EerieOrangeMix_base.ckpt": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/EerieOrangeMix/EerieOrangeMix_base.ckpt",
+            "Models/EerieOrangeMix/EerieOrangeMix_half.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/EerieOrangeMix/EerieOrangeMix_half.safetensors",
+            "Models/EerieOrangeMix/EerieOrangeMix_night.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/EerieOrangeMix/EerieOrangeMix_night.safetensors",
+            "Models/ElyOrangeMix/ElyNightOrangeMix.ckpt": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/ElyOrangeMix/ElyNightOrangeMix.ckpt",
+            "Models/ElyOrangeMix/ElyOrangeMix.ckpt": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/ElyOrangeMix/ElyOrangeMix.ckpt",
+            "Models/ElyOrangeMix/ElyOrangeMix_half.ckpt": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/ElyOrangeMix/ElyOrangeMix_half.ckpt",
+            "Models/Other/ElderOrangeMix.ckpt": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/Other/ElderOrangeMix.ckpt",
+            "Models/VividOrangeMix/VividOrangeMix.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/VividOrangeMix/VividOrangeMix.safetensors",
+            "Models/VividOrangeMix/VividOrengeMix_Hard.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/VividOrangeMix/VividOrengeMix_Hard.safetensors",
+            "Models/VividOrangeMix/VividOrengeMix_NSFW.safetensors": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/VividOrangeMix/VividOrengeMix_NSFW.safetensors"
+        }
+    },
+    "xyn-ai": {
+        "anything-v4.0": {
+            "Anything-V3.0-pruned.ckpt": "https://huggingface.co/xyn-ai/anything-v4.0/resolve/main/Anything-V3.0-pruned.ckpt",
+            "anything-v4.0-pruned-fp16.ckpt": "https://huggingface.co/xyn-ai/anything-v4.0/resolve/main/anything-v4.0-pruned-fp16.ckpt",
+            "anything-v4.0-pruned-fp16.safetensors": "https://huggingface.co/xyn-ai/anything-v4.0/resolve/main/anything-v4.0-pruned-fp16.safetensors",
+            "anything-v4.0-pruned-fp32.ckpt": "https://huggingface.co/xyn-ai/anything-v4.0/resolve/main/anything-v4.0-pruned-fp32.ckpt",
+            "anything-v4.0-pruned-fp32.safetensors": "https://huggingface.co/xyn-ai/anything-v4.0/resolve/main/anything-v4.0-pruned-fp32.safetensors",
+            "anything-v4.0-pruned.ckpt": "https://huggingface.co/xyn-ai/anything-v4.0/resolve/main/anything-v4.0-pruned.ckpt",
+            "anything-v4.0-pruned.safetensors": "https://huggingface.co/xyn-ai/anything-v4.0/resolve/main/anything-v4.0-pruned.safetensors",
+            "anything-v4.0.ckpt": "https://huggingface.co/xyn-ai/anything-v4.0/resolve/main/anything-v4.0.ckpt",
+            "anything-v4.5-pruned-fp16.ckpt": "https://huggingface.co/xyn-ai/anything-v4.0/resolve/main/anything-v4.5-pruned-fp16.ckpt",
+            "anything-v4.5-pruned-fp32.ckpt": "https://huggingface.co/xyn-ai/anything-v4.0/resolve/main/anything-v4.5-pruned-fp32.ckpt",
+            "anything-v4.5-pruned.ckpt": "https://huggingface.co/xyn-ai/anything-v4.0/resolve/main/anything-v4.5-pruned.ckpt",
+            "anything-v4.5-pruned.safetensors": "https://huggingface.co/xyn-ai/anything-v4.0/resolve/main/anything-v4.5-pruned.safetensors",
+            "anything-v4.5.ckpt": "https://huggingface.co/xyn-ai/anything-v4.0/resolve/main/anything-v4.5.ckpt",
+            "anything-v4.5.safetensors": "https://huggingface.co/xyn-ai/anything-v4.0/resolve/main/anything-v4.5.safetensors"
+        }
+    }
+}
