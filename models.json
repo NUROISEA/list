@@ -197,7 +197,6 @@
             "Blend/MIX-donotusethis/MIX-DNUT-Hard.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-donotusethis/MIX-DNUT-Hard.safetensors",
             "Blend/MIX-donotusethis/MIX-DNUT-Soft.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-donotusethis/MIX-DNUT-Soft.safetensors",
             "Blend/MIX-donotusethis/V2/MIX-DNUT-V2_Soft.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Blend/MIX-donotusethis/V2/MIX-DNUT-V2_Soft.safetensors",
-            "Lora/Antifreez3/Antifreez3.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Lora/Antifreez3/Antifreez3.safetensors",
             "Temp/MIX-ACell.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Temp/MIX-ACell.safetensors",
             "Temp/MIX-Antifreez3-fp16.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Temp/MIX-Antifreez3-fp16.safetensors",
             "Temp/MIX-Atte-fp16.safetensors": "https://huggingface.co/GIMG/AIChan_Model/resolve/main/Temp/MIX-Atte-fp16.safetensors"
@@ -556,7 +555,9 @@
             "OrangeProBlossomPastel.safetensors": "https://huggingface.co/NUROISEA/mixing-cauldron/resolve/main/OrangeProBlossomPastel.safetensors",
             "exsoular.safetensors": "https://huggingface.co/NUROISEA/mixing-cauldron/resolve/main/exsoular.safetensors",
             "exsoulvoyant.safetensors": "https://huggingface.co/NUROISEA/mixing-cauldron/resolve/main/exsoulvoyant.safetensors",
-            "florescence.safetensors": "https://huggingface.co/NUROISEA/mixing-cauldron/resolve/main/florescence.safetensors"
+            "floral-essence.safetensors": "https://huggingface.co/NUROISEA/mixing-cauldron/resolve/main/floral-essence.safetensors",
+            "florescence.safetensors": "https://huggingface.co/NUROISEA/mixing-cauldron/resolve/main/florescence.safetensors",
+            "pastel-floral-essence.safetensors": "https://huggingface.co/NUROISEA/mixing-cauldron/resolve/main/pastel-floral-essence.safetensors"
         },
         "plmx-mirror": {
             "pastelmix-fp16.safetensors": "https://huggingface.co/NUROISEA/plmx-mirror/resolve/main/pastelmix-fp16.safetensors",
