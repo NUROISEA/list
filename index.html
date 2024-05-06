@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    code {
+      padding: 5px;
+    }
+    small {
+      font-size: small;
+    }
+  </style>
+</head>
+<body>
+  <p>
+    <b>CTRL + F is your friend.</b>
+  </p>
+  <p>
+    Click on the model name to show the download link
+  </p>
+  <script>
+    // lmao good enough
+    fetch('models.min.json').then(
+      response => response.json()
+    ).then((json) => {
+      let html_lol = ''
+      const json_data = json;
+      for(key in json_data) {
+        const models = json_data[key]['models'];
+        const repo = json_data[key]['repo_url'];
+        const model_count = Object.keys(models).length;
+        html_lol += `<h2>${key} <small><a href="${repo}">source</a></small></h2>`;
+        for(model in models) {
+          const url = json_data[key]['models'][model];
+          html_lol += `<details><summary>${model}</summary><p><code>${url}</code></p></details>`;
+        }
+      }
+      document.body.innerHTML += html_lol;
+    });
+  </script>
+</body>
+</html>
