@@ -1,0 +1,925 @@
+{
+    "7th_Layer": {
+        "7th_anime_v1.1.safetensors": {
+            "aoi.jpg": "10MaSavjDqI09ZpyoRm4NyjfeLpuuN3px",
+            "fiyu.jpg": "10LaHo7NRB1WnH-OtO_xOLZuzPCdX5OdR",
+            "ryllia.jpg": "10WRcdL1gB6rB-hapLMM87rAv8xtqXmiF"
+        },
+        "7th_anime_v2_A.safetensors": {
+            "aoi.jpg": "10eEQX804eTkXOreiaoQINehfLIZENBkx",
+            "fiyu.jpg": "10YC3WwSvCR5uCel-qJzFOQGHg6K-0ZE7",
+            "ryllia.jpg": "10fgRH0r6pLBQn4l7m1iiOgg5AbLbTWKl"
+        },
+        "7th_anime_v2_B-fix.ckpt": {
+            "aoi.jpg": "10xRGKW2WRlhHKCrOaOefHTB6T-JdB8Kg",
+            "fiyu.jpg": "10i960QD5L6bUh0qlQG1CLpFQIY2ef77G",
+            "ryllia.jpg": "110B8p-MjgD61t6IFS_vdvtl_9uTtqEgd"
+        },
+        "7th_anime_v2_B.safetensors": {
+            "aoi.jpg": "118pV-BlZlLusfvjzs8JA2ejQvn79Csn4",
+            "fiyu.jpg": "115rzqFAX-xXzMnsDoHDqkQgbVqbuY0je",
+            "ryllia.jpg": "11C4K77SzPFbFUhWyRhcA_DOjEFkU7TYS"
+        },
+        "7th_anime_v2_C.safetensors": {
+            "aoi.jpg": "11WP0IFuz93h4BewbkPv18ciWUtr8JqB-",
+            "fiyu.jpg": "11UHIII53YMkwna0JCUFJv2SLwiJyhNPE",
+            "ryllia.jpg": "11aSYP72MVMe1MELRGxyyr4n-umYA7EXe"
+        },
+        "7th_anime_v2_G.safetensors": {
+            "aoi.jpg": "11hO4tWVH3mTg4ZJaLMReP60EegFtbNDH",
+            "fiyu.jpg": "11f4lZ7gs4SG_kXp3zHIJfry2mKNt5BTG",
+            "ryllia.jpg": "11hTWCt8vCn7SRDsbEnsK4H1OPkzD1q--"
+        },
+        "7th_anime_v3_A.safetensors": {
+            "aoi.jpg": "12DAKKgPtrER2p1x2jDLBaZK8-UsW_mji",
+            "fiyu.jpg": "127FsBATxxDZ_aKuQbaY-IFiSuzLLvR8v",
+            "ryllia.jpg": "12ILcY9KaFTXQeFgmpxegxqqQt2yMn1hq"
+        },
+        "7th_anime_v3_B.safetensors": {
+            "aoi.jpg": "12Qu05_tLRMVgZezEE03r-5I5HLqitBOy",
+            "fiyu.jpg": "12QB5eoe58NB6AlYsm0lSAs4TAkP2h3Jp",
+            "ryllia.jpg": "12UCkDR3dIJvn5sct0lYQakZ_wCmsyKNa"
+        },
+        "7th_anime_v3_C.safetensors": {
+            "aoi.jpg": "12aW95TWryG7IGPdJ8enZ9e9Ldx1bLXZX",
+            "fiyu.jpg": "12ZoUAO5NUT4x1vdPdF_7D_LQFZ2fz_nw",
+            "ryllia.jpg": "12bHd3JCXBb6SQCyq7Mmzoajb6IXh3Ote"
+        },
+        "7th_anime_v4A.safetensors": {
+            "aoi.jpg": "1-wLI1XvQzhTF7_EHJNabMgXOqiYcyeO0",
+            "fiyu.jpg": "1-ulbPQf-bfzRy8XAMiBQWOuaqQCyoSku",
+            "ryllia.jpg": "1-xAbirdXrETmVkULxz66vxcA7tQB2llR"
+        },
+        "7th_anime_v4B.safetensors": {
+            "aoi.jpg": "10BlpvDGJ7ZdF1fpUGB4fllJqF6124Lc6",
+            "fiyu.jpg": "104IOkTBVMStcVX-c8lQaDYOUj3B7k607",
+            "ryllia.jpg": "10CNxCu3aAE3PnYFoxAEhlxa4yZ9Q-8PN"
+        },
+        "7th_SemiR_v3A.safetensors": {
+            "aoi.jpg": "1-Eo2EdHsW5GYQmwd3XEdexFbMgBjtA4-",
+            "fiyu.jpg": "1-BEn_mcrXS3RjP_xx6OSVq7_fJUpgYta",
+            "ryllia.jpg": "1-GN0X8L9bhh-msPKil7Vvy3-Wgcnjewb"
+        },
+        "7th_SemiR_v3B.safetensors": {
+            "aoi.jpg": "1-SYx8QE9krwpv6YIwlkDLsXZlvMexy-X",
+            "fiyu.jpg": "1-Qc4_UAg2K9-iKba4yVggkEC0XVGOB_O",
+            "ryllia.jpg": "1-aF3wnGI9ZNGSBkvNqYI0DwOZCcP4JbC"
+        },
+        "7th_SemiR_v3C.safetensors": {
+            "aoi.jpg": "1-jMvW812V9X5EMD_cHIPRVWc9dbcd2gn",
+            "fiyu.jpg": "1-iAKmUqwTa31RWsecfji3eVcNJMaV2_R",
+            "ryllia.jpg": "1-kuGM6WdsxAtRHCDmNSERnae8U2FSxXc"
+        },
+        "Abyss_7th_layer.ckpt": {
+            "aoi.jpg": "12j8EeWS9SHI2iIpAZUHbiFZgizuw2tdY",
+            "fiyu.jpg": "12g1l-rIJpNV3yn3oUCGtlg_KBlZpN-n-",
+            "ryllia.jpg": "12msS4R7tDsqgIfUk29yEfYriJdYZ33E5"
+        },
+        "abyss_7th_layerG1.ckpt": {
+            "aoi.jpg": "13J6nXR6xNr79RCjlcU_8BjyPjsTC_BGR",
+            "fiyu.jpg": "13C3oy3ufg7mURtPy4TC3A2PFe4n4YVyT",
+            "ryllia.jpg": "13UrQ-q0TFvjCVXXAuVElvN-4-8ObYxbL"
+        }
+    },
+    "7thHeaven_Izumi_abyssdiff": {
+        "7thheaven_izumi_abyssdiff.safetensors": {
+            "aoi.jpg": "13ctOaaef97EOUj9SyvEqxi9k5rE5nZMm",
+            "fiyu.jpg": "13bEXqdhQyW7LFAtGfK2P7vQVEy1vVA4L",
+            "ryllia.jpg": "13mgn2AHXtYzHRBKZef6j1sEUzTLq6rp_"
+        }
+    },
+    "7thHoloAbyss": {
+        "7thv3HoloAbyss.safetensors": {
+            "aoi.jpg": "1422Ne3JpX6SLwVbQC0AfcoIdtDdjw4dj",
+            "fiyu.jpg": "13z0NF-x3AtUoOLMjs2wBAo8qD0qlwgC6",
+            "ryllia.jpg": "142qOIQFxVLoMNjW9xEa03qazLh4amDAN"
+        }
+    },
+    "8528-diffusion": {
+        "8528d-final.ckpt": {
+            "aoi.jpg": "14AARRU3_5w1mbY2GKPo7RQzCTr5BP_FY",
+            "fiyu.jpg": "149bfmJYW4h0w6EKwuhUTlyzf0XkI1rmu",
+            "ryllia.jpg": "14ApSZZa6PDBzuAdFsXIWc4LcEJY5Qe3o"
+        }
+    },
+    "AIChan_Model": {
+        "Base-U-Net.safetensors": {
+            "aoi.jpg": "13FI23UBCIavuN-vlHrGXr2wceCJGvpRh",
+            "fiyu.jpg": "1340haorxPGWd7SBVP2A6XTPZYbzBuh4J",
+            "ryllia.jpg": "13HjMRuuOXQRVTxK5ex0rKyJLkaArAaZc"
+        },
+        "MIX-ACell.safetensors": {
+            "aoi.jpg": "1I3ymSjrbEjVnPtepTU7TOMS8f0vZkVXy",
+            "fiyu.jpg": "1I1PlbgL1_bn8Ub_8aLox_OCAQ5UI7FFC",
+            "ryllia.jpg": "1I9Ek6W68vIJ1q_T8vuiX0JzUg4Q1yhLa"
+        },
+        "MIX-Antifreez3-fp16.safetensors": {
+            "aoi.jpg": "1IJxxUP4OqLgGg9Jz11gmimSQWDCe45HO",
+            "fiyu.jpg": "1IJFIxPGk_e0iXi4oTdyCDv2JLVTTUqVa",
+            "ryllia.jpg": "1IJy6RGVqn30uz2oiqM-Sp_QXisxKXtXI"
+        },
+        "MIX-Asanagi-V3.safetensors": {
+            "aoi.jpg": "13lqjcVzb1ynEmcBHpy8RFkHSx3dY6bmK",
+            "fiyu.jpg": "13loGnVv5GnvZ303N1ISTnjlUHplhGk7E",
+            "ryllia.jpg": "13nVbv43_Ahx1SvBmIDIDxpQdiOhqtoZT"
+        },
+        "MIX-Asanagi-V4.safetensors": {
+            "aoi.jpg": "13xzs3QKVPm2O592JeVnimSLq-VWmFGeO",
+            "fiyu.jpg": "13u3LafWvcX-hsOFrxh_jpqWik5in6iNL",
+            "ryllia.jpg": "14-revMx-iokTQx-9bUvvE4fcXlccRAff"
+        },
+        "MIX-AT-V2.safetensors": {
+            "aoi.jpg": "14QTuHqoo5NtPVcEfJNiN45ifvnrM82gN",
+            "fiyu.jpg": "14L2P__F35P4cB__vyZzS4mpdfX3yU1dJ",
+            "ryllia.jpg": "14TQEdYTiPYYBm6XWreKqWKWKPUFlezxk"
+        },
+        "MIX-Atte-fp16.safetensors": {
+            "aoi.jpg": "1IPCRueeVlIPfWdOU8fVykOWQAsCzPNqC",
+            "fiyu.jpg": "1IMBuW9PwORThkWqFBKbVbLUr2yq556lp",
+            "ryllia.jpg": "1IQfzk7292Og70RPkACeWBDtD7xVomVTQ"
+        },
+        "MIX-BIG-V3.safetensors": {
+            "aoi.jpg": "14eRYUz6WEIebxRaT5YAShZDwNJ2HHah_",
+            "fiyu.jpg": "14Vh4j3STKGDqciil1hmxsYkE6ptH_kuE",
+            "ryllia.jpg": "14ejo975WUVL9S0mXdJ5KNb06IWrSiOE3"
+        },
+        "MIX-DNUT-Hard.safetensors": {
+            "aoi.jpg": "1HVb06sCCDQmyuxh7Cdb--pQ8NWhmmU2H",
+            "fiyu.jpg": "1HOxiAampoilQf0L29UkDYHoTqGTERJlx",
+            "ryllia.jpg": "1HZtGKwE78ovXDNGkB1ERM7y-kKoEOaN4"
+        },
+        "MIX-DNUT-Soft.safetensors": {
+            "aoi.jpg": "1Hhd0JyxnVQquVB6DIciHhygJ_d5bnsnh",
+            "fiyu.jpg": "1HgEsjNA5OZPlpewS5tVtaZoQHniK2mbd",
+            "ryllia.jpg": "1HiwWAO9HZZsFiKLksV6N0nuzCq4_Vn5q"
+        },
+        "MIX-DNUT-V2_Soft.safetensors": {
+            "aoi.jpg": "1Hs02iiCeXAEwls8U-ykdg5vJprHMBMBB",
+            "fiyu.jpg": "1HqHGC-RISGSGeUArbI1hQ8J1PJE8dzIp",
+            "ryllia.jpg": "1HxXvvRJPLYFosmm4pTVkLT-rPe1wm0Ol"
+        },
+        "MIX-DoNot-H.safetensors": {
+            "aoi.jpg": "14tizdkU_R72u0XN6xK72V9QnpuwrwxbJ",
+            "fiyu.jpg": "14lV4YH1K0ogOFLmqFitfuhmkrRCdA_3V",
+            "ryllia.jpg": "14u1MUcupFpGQmuaIGDxMFtwJSy03E6hq"
+        },
+        "MIX-DoNot-S.safetensors": {
+            "aoi.jpg": "158hiKouP85im9rKnyOyjuAagAzoVsPki",
+            "fiyu.jpg": "14vftFGqF71gMkChLtiltk847r8aEY8Gl",
+            "ryllia.jpg": "159RrPg0oMx0jeddTe0cqE_OLSB4ddQt6"
+        },
+        "MIX-DoNot-V5.safetensors": {
+            "aoi.jpg": "15HSMIjNrGq9PCwmsYydwZOgCjnON6mXi",
+            "fiyu.jpg": "15HKYNGHh15RmkMm4knnXnVE3zlIrFB3z",
+            "ryllia.jpg": "15I7flXiLbpMwKdz3za2kfLq996xUVhZ9"
+        },
+        "MIX-HIRES-V1.safetensors": {
+            "aoi.jpg": "15bCK6VUfKCr9Diq_dM_mGLuaIKJRGJtf",
+            "fiyu.jpg": "15VSs2xgtIZbeYynhESCf2AwJXeMHeWcR",
+            "ryllia.jpg": "15fqnTi6p1aPSpbpkKO8Y0KvfWb7Ur7CS"
+        },
+        "MIX-HIRES-V2.safetensors": {
+            "aoi.jpg": "15rez0V5Nh3ynvpE-I9VGX9KaAp0wknBD",
+            "fiyu.jpg": "15ly61eYIBa3YDYgnXbV7drOJMpIlnl3u",
+            "ryllia.jpg": "15xGrmINfA1cIr4hCqzRtq5TdlYdWOAC5"
+        },
+        "MIX-HIRES-V3.5.safetensors": {
+            "aoi.jpg": "1674TeN-ZDeYmlTG-4fIkqGf5_9HlzI53",
+            "fiyu.jpg": "16-DxlacvJGTawa64rbbsrF0_KI5k-WYV",
+            "ryllia.jpg": "168SZlvThDekPPalS_P3MX9HK2yKKexfU"
+        },
+        "MIX-HIRES-V3.safetensors": {
+            "aoi.jpg": "16GrF9J7JGgVONCtmghU5oikJ8wulVdv9",
+            "fiyu.jpg": "16C0FvXoSLIKS9EOFXAuJFL_vE4e-fS37",
+            "ryllia.jpg": "16LOAHHkuwcUcglGHPUoXjlv0ZTm-VByd"
+        },
+        "MIX-HIRES-V4.5.safetensors": {
+            "aoi.jpg": "16i-Uvpl3UDaL8ECnBVhPbwvBM21S3vq0",
+            "fiyu.jpg": "16RfcUTuvdKHlj5e5_PEy9X7_uUy0Fx3B",
+            "ryllia.jpg": "16iWUyPNnW5V5nuJNBL4YEnQY75NIgzHx"
+        },
+        "MIX-HIRES-V4.safetensors": {
+            "aoi.jpg": "16u6zXtDSF-gIgWlIPf4_LTQ5IMAD3EnC",
+            "fiyu.jpg": "16rYCFWQid4GS1XCO3uVkta2vf1rJyYrt",
+            "ryllia.jpg": "16vx0ZxydHcTn8a90pNoX-P_NiDn-_3Vq"
+        },
+        "MIX-HIRES-V5.safetensors": {
+            "aoi.jpg": "17Egi4phY0ineFMghpBQKOfzTiZhWAm1c",
+            "fiyu.jpg": "17C1M6WMcka9BiMDZVM1ERsQLZj0JG2aQ",
+            "ryllia.jpg": "17GxyBmgffRCl4uEKvlOWB8Jd0yBtwwfQ"
+        },
+        "MIX-Oekakizuki-L.safetensors": {
+            "aoi.jpg": "18cnpXLIa5pmpTzVIpEpRZmID6aTc27yp",
+            "fiyu.jpg": "18ZrrLdoelu5FhcHgDp0sKemENM3g-qjG",
+            "ryllia.jpg": "18hzAJIw8D5jeOAhe2wK_Lusar_zypO2j"
+        },
+        "MIX-Oekakizuki-LC.safetensors": {
+            "aoi.jpg": "18sffxxFNSvPnxV2l1TPijQrZ_zE8V7jz",
+            "fiyu.jpg": "18odzwUC4jMWcGQppCgB0Hha0dlyzgaAJ",
+            "ryllia.jpg": "18y3tF5Rq-T4QYjlCYNFwpOvhZggBr36w"
+        },
+        "MIX-Oekakizuki-V2.safetensors": {
+            "aoi.jpg": "17Z4y4v5PnwEZ6T35-a7fM0mVq0-CTCzy",
+            "fiyu.jpg": "17Uk0tF8i6-zGkAQTeNakREIL_vF_EPfK",
+            "ryllia.jpg": "17cm4drbkhu8OlVcoI15yWAZTRjS7yDOv"
+        },
+        "MIX-Oekakizuki-V3.safetensors": {
+            "aoi.jpg": "180mZf7jty6aHjAHCb-u_PT5mUpWXW-xl",
+            "fiyu.jpg": "17z8Mzpcw4dALyMacWiBMCGeiBOg7N9jC",
+            "ryllia.jpg": "18DTPh97p8bPth0mlU_b3HqM8LIVqYztC"
+        },
+        "MIX-Oekakizuki-V4.safetensors": {
+            "aoi.jpg": "18TCxA23PY0VOTg3UB1ye9wXr6kkjPwXm",
+            "fiyu.jpg": "18NUr6enaHOmmNpUwr-O5yI9Q7SW8KigF",
+            "ryllia.jpg": "18UQVE2BFB5A6KmpQeHPaW1poaBlFgqdZ"
+        },
+        "MIX-P.safetensors": {
+            "aoi.jpg": "13VHwT4psNUurOpAZDh56gu0pw-7-JBOu",
+            "fiyu.jpg": "13P1qgk-LqVKnmg8zC-DzikOH7a1-HACG",
+            "ryllia.jpg": "13_vTmg2kyLwjD1S404_B76_5T0TLVS-c"
+        },
+        "MIX-PAU.safetensors": {
+            "aoi.jpg": "193B7bGtbdk3i7VKtL2RomJ-layGduGa6",
+            "fiyu.jpg": "190tJyuS_YLPhUi8S86WNt4aaWvaag88E",
+            "ryllia.jpg": "199pFcL9ItUt8ChcOaLhGFGl_tb87IVoO"
+        },
+        "MIX-PAUL-fp16.safetensors": {
+            "aoi.jpg": "19J0qAqd2bIBTYBy_DaAbvXwbAo9gzkFp",
+            "fiyu.jpg": "19HA_0D0AWMyubf7XLq9y3MCVwXfd97zF",
+            "ryllia.jpg": "19Kl0AJbDAEat7qlOxjCIYl11-6fsEjbr"
+        },
+        "MIX-PAULc-fp16.safetensors": {
+            "aoi.jpg": "19ViLLbujhly8CiViXSFtpTH6AXLrVZCQ",
+            "fiyu.jpg": "19PNYkDQTqD_nARxwchyI1xyVtlNv_THP",
+            "ryllia.jpg": "19W7tEr1F7fYRXWYH_xEYeQ6GzmZSRcbf"
+        },
+        "MIX-PPaiLo-V2.safetensors": {
+            "aoi.jpg": "1AFuKMLCz8RYwvtrnxUlF8f8jvSJaMnTq",
+            "fiyu.jpg": "1AD_9IxYT0qYPzq2vYUwMczpQSb8PQi_I",
+            "ryllia.jpg": "1AHX7kczabio1wLcASvnePtWGoOkmsji-"
+        },
+        "MIX-Pro%2BNiji-Base.safetensors": {
+            "aoi.jpg": "1ANNslKPr2hn8muvA_ZvTSRAAChHr9FWw",
+            "fiyu.jpg": "1AHu9tcgqui2JZUkgrcWteqiG4BbW8vHA",
+            "ryllia.jpg": "1ATZY3_yGV4Tgm_xBecHyPATTFzMf1DsB"
+        },
+        "MIX-Pro%2BNiji.safetensors": {
+            "aoi.jpg": "1AgcDdEePtX0rfhE6nSK-d6mfU1D7WzfS",
+            "fiyu.jpg": "1AeThCNz3vbcPrUDKn_8AL52S-O_90JWU",
+            "ryllia.jpg": "1Ao52Nuhqxu2hA9_bRKJ_Z4SoJHJCNq4X"
+        },
+        "MIX-Pro-K1.safetensors": {
+            "aoi.jpg": "1BLbu_ZlC8cNqmO3JxxAgsd41hnY22Cq0",
+            "fiyu.jpg": "1BEUM_JIR8qqbzsKhAc-NB4bc_C4PSksX",
+            "ryllia.jpg": "1BRLqBHRZSxIIePk0eUQvzhCYE1eIEF1p"
+        },
+        "MIX-Pro-K3.safetensors": {
+            "aoi.jpg": "1BdimRxVvDkWKdnYwDJXXBewGUbRarVGp",
+            "fiyu.jpg": "1BYy8lARtSztJam4LCeOk0OPDJa0CblPo",
+            "ryllia.jpg": "1Bfj1fZrGhkUeisFmuGI9O5dvaFfb6kW_"
+        },
+        "MIX-Pro-K4.safetensors": {
+            "aoi.jpg": "1BvMb3hU0RBbObAquQxwsTsCIP2rcSNYw",
+            "fiyu.jpg": "1BvG0ZOZydDkDsAUGNWT4lV2Z0X-GUGsi",
+            "ryllia.jpg": "1Bz56HvlCY1CggtuxGi_94HxdDd1itHO3"
+        },
+        "MIX-Pro-Remaster.safetensors": {
+            "aoi.jpg": "1B85L1Sk7BaJMtW8QeMbE7PzowpAh6hji",
+            "fiyu.jpg": "1B9-PUyoKcJnlvbSGxNH7H7T2iMDftNmG",
+            "ryllia.jpg": "1AsHGGUrdO-MXzyMUjCdr0J5zx2sJ8VVG"
+        },
+        "MIX-Pro-T2.safetensors": {
+            "aoi.jpg": "1C6gHlxjI0jvm4rU5IUo_9bwo_T9cCwwd",
+            "fiyu.jpg": "1C0ft4gABlY6Qg_ClHIIZTasPjUUdkK5S",
+            "ryllia.jpg": "1CBChcnp5hDkJ-P-UmISLdop6lQ6iJ6bD"
+        },
+        "MIX-Pro-V2.safetensors": {
+            "aoi.jpg": "1CLeGAsTpuwYDa4fKdveYlIyQPc52Hput",
+            "fiyu.jpg": "1CI1ANzuusKIs3baPbiqJyt2KX9ljxKxM",
+            "ryllia.jpg": "1CLiykbfToUxOFs43fm9R8SHD1go3oFJM"
+        },
+        "MIX-Pro-V3.5%2BPastel.safetensors": {
+            "aoi.jpg": "1CeSMD3LhCpbQliUw3v9Wegejx8zg4f4z",
+            "fiyu.jpg": "1C_61NZxat3__A5OwH09xFmUvwsqOngFn",
+            "ryllia.jpg": "1CqlxlgL8FbUhkQXULNbX8FlUlYY5bSB8"
+        },
+        "MIX-Pro-V3.safetensors": {
+            "aoi.jpg": "1D2dZQxaOl6_ILXo6a7_yjwnQ78DENjIF",
+            "fiyu.jpg": "1CyM6-d_9OxvHafhaheuX-NXspKZpa5Dm",
+            "ryllia.jpg": "1DKMu-qCgI4K8d4W-irnkoZxeNyWNiUFe"
+        },
+        "MIX-Pro-V4.5%2BColorBox.safetensors": {
+            "aoi.jpg": "1DX2n2wn3RrqziuoQyyDGRtAVAuGmsVOm",
+            "fiyu.jpg": "1DQudjdr5sGu-Ts07aC15s_BNl5znxsor",
+            "ryllia.jpg": "1DZyw1Ye8ou_H35O4BWw85Li5snj1izKH"
+        },
+        "MIX-Pro-V4.safetensors": {
+            "aoi.jpg": "1DgIz5sIxo8RbJz5-48pkO8ktJcc9GeVc",
+            "fiyu.jpg": "1DdBurhrMIE5uTcsCxU76sNW4Sxm1AM3r",
+            "ryllia.jpg": "1DihblWccNArB6t5xPUCDbCUsKii-JaBd"
+        },
+        "MIX-PU.safetensors": {
+            "aoi.jpg": "19pLPcLv7keYMeGvKhSbD6-s6S2xTv3g4",
+            "fiyu.jpg": "19f-GzH_RE__QxRdVRLbm2YcFI7NdhVTT",
+            "ryllia.jpg": "19vdCqRXuUNKEqhfFQpRGQ8iLICRSYLxX"
+        },
+        "MIX-PUL-fp16.safetensors": {
+            "aoi.jpg": "1A01L5PQ0gwLi-bZLiuHwX5oDqiCcag9L",
+            "fiyu.jpg": "19zlpzV6dnVXqw9v_d-wrkfRasWxO_24l",
+            "ryllia.jpg": "1A09XQMrPx22MkK5Btde2qAiC9m3yUGmx"
+        },
+        "MIX-PULc-fp16.safetensors": {
+            "aoi.jpg": "1A5dO7pYRKV6CQbEPEz3vG2qqEwid_JUm",
+            "fiyu.jpg": "1A2X0DH_p8P63ofOqwE6vvJ-0rlMAmYHl",
+            "ryllia.jpg": "1ABPCtUf67B3ZXvav-up0t9kWOFQX5wjF"
+        },
+        "MIX-ReV3.safetensors": {
+            "aoi.jpg": "1ECRaGhL_4J82NdbGjBeT8g4lCYiRkhIy",
+            "fiyu.jpg": "1E1ClGLnNPgT4R8-DW6LBjxOPx6NcuIxi",
+            "ryllia.jpg": "1EL2CgXUxXbJzbs4_Arb97agoid_GdDXR"
+        },
+        "MIX-ReV4.safetensors": {
+            "aoi.jpg": "1Ei0KzURpTRFVcMp-N-xsknJDYkYFm6q6",
+            "fiyu.jpg": "1EdwI0Op3LLNymIII9RFubMl1orZKwCWd",
+            "ryllia.jpg": "1EiTPMQmccyqtRImOmd4XxSYJ8m9zBNgi"
+        },
+        "MIX-ReV5.safetensors": {
+            "aoi.jpg": "1FEPFJzkxfC3KV1O_XtJ43I4iWZNm51DZ",
+            "fiyu.jpg": "1F2wdssWPl_mWPbOPcN2ioiFlFGDcaIS4",
+            "ryllia.jpg": "1FI4WEg4632hlB8zybZ_IDld3yRVqrRHU"
+        },
+        "MIX-Short-V4.safetensors": {
+            "aoi.jpg": "1FStcZ7OOYRFn0OTYbtT1AROKgUeds8Fa",
+            "fiyu.jpg": "1FLn7TTKyl9FfIQk0t_G13gW1-FM6hmJ-",
+            "ryllia.jpg": "1FXyklW3FxZRcU612StxFmIA4biiQVyjw"
+        },
+        "MIX-Style-L1.safetensors": {
+            "aoi.jpg": "1FfkcDfoBUlpXP19Ym9n8dmVRxmoVQliU",
+            "fiyu.jpg": "1F_TLLB56xJoEkkFqMJ5Kd6UqENJJoz7U",
+            "ryllia.jpg": "1Firpsr7mxmGEXXUWra82L3IvYyRNU_mo"
+        },
+        "MIX-Style-L2-fp16.safetensors": {
+            "aoi.jpg": "1FwLFrFd0Gda3nOn2502S8dBc8CJSyhxl",
+            "fiyu.jpg": "1FuiSiC64DZB9R8dCDrMU7vuFAFxuyvA1",
+            "ryllia.jpg": "1FySc5JJksbuGfuIusn3Y8__bE-XVAw6X"
+        },
+        "MIX-Style-L4-fp16.safetensors": {
+            "aoi.jpg": "1GFtJp96quXnc5XoUW8faK4JnEPLnz2tf",
+            "fiyu.jpg": "1GECo_4b6KhaRb_VjoIhy4GDDYO-oGOyP",
+            "ryllia.jpg": "1GNyCFF5kJ-tD6a8sgVO0z6etEnw5ykEY"
+        },
+        "MIX-Style-L5.safetensors": {
+            "aoi.jpg": "1GjiGd501yHJt5eLfL-sFyqx1IMVM1WFA",
+            "fiyu.jpg": "1GaUDlHgizdpn6ETXCxN3hPBrlOwwRtfD",
+            "ryllia.jpg": "1GmhV7EK2hqE19J85T-vHkWSrGhvrsVJE"
+        },
+        "MIX-Style-T3.safetensors": {
+            "aoi.jpg": "1G6I2W1rhAk9LCOf8tqEN2tQzoZTCw4GV",
+            "fiyu.jpg": "1G3YRBzC2MEn5pK9HqRGpr3ZF0zpzWbtw",
+            "ryllia.jpg": "1G8UO02Ow-PttqzVZkQbA2e1avHPu_yfL"
+        },
+        "MIX-Water-V1.safetensors": {
+            "aoi.jpg": "1H0Cs_i4Tfs7b1-mgCzb-9Wj5dVJOQ5m4",
+            "fiyu.jpg": "1GttbNEN_Y1TcEhhFgpiSBplWSRMSH-5x",
+            "ryllia.jpg": "1H7y2VOG13wqWLQyHnbiG4XwtQK3Lj9Ap"
+        }
+    },
+    "alloy-mix": {
+        "alloymix-brass-a-fp16.safetensors": {
+            "aoi.jpg": "1-5sthhG1hKAl4ux7LU8nYQvbyMSDE4Yv",
+            "fiyu.jpg": "1-5RiaNVPDIuGujr_R3Pnho6nBL69lNHE",
+            "ryllia.jpg": "1-W3yGNvDaQabytTEYueopVusN_k4oImi"
+        },
+        "alloymix-brass-b-fp16.safetensors": {
+            "aoi.jpg": "1-ajSeJFAgEQe4LetIa9fiYFR7yMJvNqq",
+            "fiyu.jpg": "1-_k7uPbXSp2KnoxpI7H7P30T5i1iOKNs",
+            "ryllia.jpg": "1-gcN3d3V6noceWNoq1ihJBIfLRsLnygU"
+        },
+        "alloymix-brass-c-fp16.safetensors": {
+            "aoi.jpg": "100LQH-zqY5tb2wGsuFSwbCBgL60stt-P",
+            "fiyu.jpg": "1-u6HDPz-FCu7xo80oXVZ0yTymz23KaUa",
+            "ryllia.jpg": "101prLL-s5OR0tUmFxkWX0qmEprB3yijA"
+        }
+    },
+    "ambientmix": {
+        "ambientmix-half.safetensors": {
+            "aoi.jpg": "14YlbrNt_hmyLhSMiH9kgBAaASgcoNDj2",
+            "fiyu.jpg": "14PRq12glcrRf5xmHho2LdsL4WIDbEvYD",
+            "ryllia.jpg": "14dhk-WTb1CvkF1g6DHTvt-ddZWWFVEjD"
+        }
+    },
+    "Amedira": {
+        "Amedira-bV.safetensors": {
+            "aoi.jpg": "10DyOcOIEFnV6GaLxq44f0L3zgHyoCr_2",
+            "fiyu.jpg": "10A1nQooTBX-ouBa4QVEdOLX5Dek9baND",
+            "ryllia.jpg": "10I5ajP4HlZnjVzBkWOpu9Zhvw2NerYzc"
+        },
+        "Amedira-bV2.5.safetensors": {
+            "aoi.jpg": "10WDxwdes8iLRM7eYLvup8IZzamEDizq-",
+            "fiyu.jpg": "10ULM0yI18FOPQC49vZm-4BzmLr2LE7s6",
+            "ryllia.jpg": "10_LSc_gMYebjuIeVNYEJEIBsyTD-hv1H"
+        },
+        "Amedira-bV2.safetensors": {
+            "aoi.jpg": "10ebLy28Vf3pNqkhwI5lwqlcG8pTV8MlN",
+            "fiyu.jpg": "10eU6fRrT0-TQbPntfGxISqUO77T_W7nJ",
+            "ryllia.jpg": "10gHVcdfl5DArNlByxGbo0LDmx7H5r1jY"
+        },
+        "Amedira-bV3.safetensors": {
+            "aoi.jpg": "10ovrOSrXrHhZOx505nmKf0VGXiypyBc1",
+            "fiyu.jpg": "10ljg9YTahNIKVoj-cLCrDLO3PwtQD3xT",
+            "ryllia.jpg": "11-HKgX033bXv0lqWse6psGEJvKLHtEqp"
+        },
+        "Amedira-cV.safetensors": {
+            "aoi.jpg": "117_fhMgGU2r0gQNPZNLI-LSLWlRMjdod",
+            "fiyu.jpg": "114951x4xSa1L3Bid4mbx9b18rKF0O6Cl",
+            "ryllia.jpg": "118pgKsRcwSCBn9CM7yRT-jkp5S0R1y_s"
+        },
+        "Amedira-Dimavand.safetensors": {
+            "aoi.jpg": "11uV3Ft5PiocWNmm19AsJJYRhCAVRfr5A",
+            "fiyu.jpg": "11smDjX5jX5DXWv9AGjvpIvp9lrUFOVFX",
+            "ryllia.jpg": "11wfL-FqocB8rCbc1bpPKWxYk2cmmL-CD"
+        },
+        "Amedira-Fuzzy.safetensors": {
+            "aoi.jpg": "123jgmcCcsr3dQFY-6I1rqdISRF2H5abh",
+            "fiyu.jpg": "121v9sBkKxBV6eFnCC5YP0n-8ke4MpFFS",
+            "ryllia.jpg": "124cQLwikrrKbuHYZiA5RR62Aze8ma3Am"
+        },
+        "Amedira-Koofy.safetensors": {
+            "aoi.jpg": "129RRXhqHNy4Kbc0emmFtswJhSzyBMxyg",
+            "fiyu.jpg": "127IereFwJMoAWWYZ4fL1rw2DXsTS_DdB",
+            "ryllia.jpg": "12Cq5azym1wfUEGQCtaaDEzad55rfRsD9"
+        },
+        "Amedira-Ligne.safetensors": {
+            "aoi.jpg": "12LYfdj2sBWBmSdVp9yGnUHps6gzgS3r5",
+            "fiyu.jpg": "12HQJ5aQAxbZ4lgKRVnEQjrBBGBgUJJS8",
+            "ryllia.jpg": "12MPbt--gPfS4-iWcRb4Falua0bqmjQKV"
+        },
+        "Amedira-mV.safetensors": {
+            "aoi.jpg": "11TfwOHlsXPxeKWyCqraJlK-QqfuUBIjg",
+            "fiyu.jpg": "11IPNSS45YluGiSFR_9LPOUtLgfxCBOwg",
+            "ryllia.jpg": "11WzIyrLIzxrP25q-WItsEaL62hj9h6AN"
+        },
+        "Amedira-Scenic.safetensors": {
+            "aoi.jpg": "12W4Ew5q-tWMN7f0cVswc24-67vtqHIXr",
+            "fiyu.jpg": "12Qr5D8B-o6kgnZzn1dvuojZZdLbf5GwX",
+            "ryllia.jpg": "12aouo22PDiUeIqm0G4DtRVaCf_Vs2RbW"
+        },
+        "Amedira-Umi.safetensors": {
+            "aoi.jpg": "12g2vxf8uKxiVwLQTsRwjcb7tGfdoznJz",
+            "fiyu.jpg": "12fnnSpIF9e1SNklqZAjZqO69ipda6VQ-",
+            "ryllia.jpg": "12iou4bcO8qGboYJjkxmJKQqfEATaIH2I"
+        },
+        "Amedira-Vendium.safetensors": {
+            "aoi.jpg": "12tV3XtB6EMFPs1yl3pjoJt6sUSV_8QX9",
+            "fiyu.jpg": "12ss7Za3FQBRg9VLn3x618g8Hf93Lf79F",
+            "ryllia.jpg": "12vR0MARGfgUlcw5ZrxK_bsap-YViLCxz"
+        },
+        "clip-10.safetensors": {
+            "aoi.jpg": "11inarTJDmXCz63DnvXX6E0pA58E529cq",
+            "fiyu.jpg": "11YDYfvJjo8tnUVQo_dJFOPufOs5zHtZP",
+            "ryllia.jpg": "11kAp5mqBzAZDQucV3v8fxrbbJ3QfXvZ4"
+        },
+        "clip-25.safetensors": {
+            "aoi.jpg": "11qWU98ff8awaLJKSPyhJ3MlSixmS-fXc",
+            "fiyu.jpg": "11qQvMz-UdAU1Nw0-v3yZEMAHdbDi03gD",
+            "ryllia.jpg": "11r97xh14vdJunbR9sDtrjwWHDqzR7YgL"
+        }
+    },
+    "Andromeda": {
+        "AndromedaDX-v1.safetensors": {
+            "aoi.jpg": "14kVt_a9r3bPbOgiM82lIx4rhFiFe6EKi",
+            "fiyu.jpg": "14jugyY5yxD6_rGGaBVQoDZWrJUChaFhw",
+            "ryllia.jpg": "156mzTYPqPNqBT09oP7fRIbVR7e-93aXW"
+        },
+        "AndromedaMV-v1.safetensors": {
+            "aoi.jpg": "15FzSGZittig8nDR-cO2jKgB_bsZbKNOj",
+            "fiyu.jpg": "15F8EiiwUiC3WBkQKYT4mHOcgRnVP_zOh",
+            "ryllia.jpg": "15H0WiwmXTpAcy4TeakT-ErEWsT9RhETc"
+        },
+        "AndromedaSV-v1.safetensors": {
+            "aoi.jpg": "15PoxymZ5nqDywOTrMvFBmL_Zh3-ggQK2",
+            "fiyu.jpg": "15OCxZu0FikwdTzeR19Qv8PPN9pB_5YgN",
+            "ryllia.jpg": "15QzaBVhLiPPRNscu3DDNqatvOEvjGJEN"
+        },
+        "AndromedaSX-v1.safetensors": {
+            "aoi.jpg": "15f4bGzexvE3lZIRFXtuwASWhwdh10sxe",
+            "fiyu.jpg": "15d3JxsoS3hR_WWIMSUdO5ddASjHzq1vS",
+            "ryllia.jpg": "15qs00ma7OyI4NfKn9ko2_2zkH82QMLIA"
+        },
+        "AndromedaUnreal-v1.safetensors": {
+            "aoi.jpg": "15x0-g-H4fw26idN02Ske5HKqLuoh59oD",
+            "fiyu.jpg": "15uNlcjEusb5h0u1k6cqh7-960KLjqLPO",
+            "ryllia.jpg": "15znOdWi-nLD5bwACdTv9E6BptDWbvSiU"
+        },
+        "UMMdromedaDX-A.fp16.safetensors": {
+            "aoi.jpg": "16ITiClDIn9fPwSv7II9CX_Hi9U-WyjbJ",
+            "fiyu.jpg": "16HSJx0tSQokdb7LHDhUNwbFo8-oBqKcu",
+            "ryllia.jpg": "16NWqtxZlaUxIlFVjzj96RGzcM7uegFi3"
+        }
+    },
+    "animeinourworld-model": {
+        "animeinourworldep2.ckpt": {
+            "aoi.jpg": "16VxRs0IZAExns4poc7FuRidsh6pSlWGB",
+            "fiyu.jpg": "16TqyLUSqzm39JWRG5y6-Wk0K_P_zyqgk",
+            "ryllia.jpg": "16X9qLG1Ix6gXdf8HDLZImVyadZhlxaFU"
+        }
+    },
+    "any-pastel": {
+        "AnyPastel-fp16.safetensors": {
+            "aoi.jpg": "16lIVRLui7-ipAxF0YrJDqzxTH0kIBcsq",
+            "fiyu.jpg": "16hX3IvBHr1oCFIGImz_xi8qZrjcwEVTh",
+            "ryllia.jpg": "16ltVK5OtkUPD6SeRt3uEIsWJL9gMJGRO"
+        },
+        "AnyPastel-hard-fp16.safetensors": {
+            "aoi.jpg": "16sIhMJXehyH-k6ffeOGTzx99bfEpYXUX",
+            "fiyu.jpg": "16q-5pOhGEJRm0_HqRX0cnUvMtYqyApms",
+            "ryllia.jpg": "1780GSy5_dz_lns8EMYfNaO8xTnYQCWGT"
+        },
+        "AnyPastel-nsfw-fp16.safetensors": {
+            "aoi.jpg": "17E_4bWKooJOI4vWFPLjJgKVVTQP7LXwa",
+            "fiyu.jpg": "17AlwPytNHI9yPEmepEgpVTF96JtuLYQR",
+            "ryllia.jpg": "17IE0z1ajSHt1HAvBXkKf-MZv-uyZmT8M"
+        },
+        "AnyPastel-nsfw-test-fp16.safetensors": {
+            "aoi.jpg": "17T3k3f5x8-UjeXsxBmN1uAlcR6VnBFQr",
+            "fiyu.jpg": "17PB0GWq1QNozIafsNH-lvcuhN69hNhFA",
+            "ryllia.jpg": "17aardwPDFB4Qbrn87yivr58cqnk3GqKn"
+        }
+    },
+    "anygape-mix": {
+        "AnyV3Ga%2BElysiumV3.safetensors": {
+            "aoi.jpg": "17vgdu8LvVV9oacN2_bphgK4iOquCJn1i",
+            "fiyu.jpg": "17umAy0SBWFzGIDYRMN2MCGdtT3FjokOf",
+            "ryllia.jpg": "17w2dBEVYUPiw9DaKz-KidjnufqF-hgyZ"
+        },
+        "berrymix-V3Ga.safetensors": {
+            "aoi.jpg": "17yaUQ2Bhqohg2m1ekSfflfSiCmINKESd",
+            "fiyu.jpg": "17y6SO2355PvIUpIRvjdj3ryX6y8h3plN",
+            "ryllia.jpg": "180Fb-vcEv_RYN_QiAdtiyWvmg6IiyEe5"
+        }
+    },
+    "anything-mix": {
+        "anything-berry-30.ckpt": {
+            "aoi.jpg": "18TBbEEod69_I-fWS_YGaH3r2_oDdUR4b",
+            "fiyu.jpg": "18M--wC7gwZdPFfxa_kFsgEYNo2TM-m5n",
+            "ryllia.jpg": "18Uvl97RWgQQ0sOroPcH7UfpK9M3aqUs9"
+        },
+        "anything-f222-15-elysiumv2-10.ckpt": {
+            "aoi.jpg": "18g3raaeenB-ZX48lRyYEG-y6WQOaryJo",
+            "fiyu.jpg": "18c7UCgjLADb2zxhp0hB4vEXTvGnw6exb",
+            "ryllia.jpg": "18h_rNz_k2ShzQ73y63_wOZLCAGZomk5n"
+        },
+        "anything-f222-15.ckpt": {
+            "aoi.jpg": "18sFLTiSbAuJqmcgudEU2bpOmfVNjirZr",
+            "fiyu.jpg": "18q7sgIAczee0g1EeuFTvTrRXX6b2q9Z2",
+            "ryllia.jpg": "18vAoMeQw97LkX85fSwWXm1hRrZG6_V07"
+        },
+        "berrymix-v3.ckpt": {
+            "aoi.jpg": "19DBRXzPqDS800dZqFw_lvCoJFf4_rUtd",
+            "fiyu.jpg": "18vs2svkLqA7riZaIT9egdjGO4-vu6ZBp",
+            "ryllia.jpg": "19EdaHuyig7lZRwLdT5QmAxPNZ6Ey-3z0"
+        },
+        "blossom-extract.safetensors": {
+            "aoi.jpg": "19HeJLiRKS4IHacLhpBrCuFIYfCgqfVnZ",
+            "fiyu.jpg": "19Fbk5t52lWeRdnSzbzdgqDinLyfi3Uvp",
+            "ryllia.jpg": "19J1q0YPmeELT0f547-RUyGzJOlQbffo2"
+        },
+        "hentai-elysium-50.safetensors": {
+            "aoi.jpg": "19YtiUzTO-HTzbhQFU0u6Q6UiDq_NKjxa",
+            "fiyu.jpg": "19VmNA_n84w-UQG2YedvzoSRIQcnn5XXn",
+            "ryllia.jpg": "19hTTpXcIXxxp3yoQVTvQLilcU0VXwfjI"
+        },
+        "nutmeg-mix.ckpt": {
+            "aoi.jpg": "19pjhTSRws7YjEHMdbN00MvXZ-D7HkZzh",
+            "fiyu.jpg": "19lUH9_ew2f5A6FYnfq49U6t_7YZd84Ox",
+            "ryllia.jpg": "19qf5kbKecMb6kDbhxEUc_DBrKIyvTVnT"
+        },
+        "raspberry-mix.ckpt": {
+            "aoi.jpg": "19wY3bmTXYdzciLHe8fYLsfyZO22eehiO",
+            "fiyu.jpg": "19rZLITAjufvE1DkpsLz40iHUaI93TXE7",
+            "ryllia.jpg": "1A0MF-8-gPikHVImGHt07lPMWtc-2v2MZ"
+        },
+        "strawberry-mix.ckpt": {
+            "aoi.jpg": "1ADnLl_oO1VmtwBGOCCwZJ2azLvsWm7bq",
+            "fiyu.jpg": "1AAnnQvF8f-PN8RdI-lYEVRmYJ0-NnyPh",
+            "ryllia.jpg": "1AEx3qY4tDGkNZY80GhL2ewnkJu4O6lg0"
+        }
+    },
+    "anything-v3": {
+        "Anything-V3-full-pruned-fp16.safetensors": {
+            "aoi.jpg": "1AWnh5E9yrUjVn0T-IAVrK1BzOjp6FT29",
+            "fiyu.jpg": "1AQr5Kl-i3DWOsyTYcjsQDI7YfoOhaXxJ",
+            "ryllia.jpg": "1AXVIF9xYTGZQKrusiPwQeJo8-zq8vgH1"
+        }
+    },
+    "anything-v4.0": {
+        "Anything-V3.0-pruned.ckpt": {
+            "aoi.jpg": "1AtXq6y1-NWes5W3-eAAjzweKG8SeuBN6",
+            "fiyu.jpg": "1AqvtZ1pNbvBtToQfYgqZfplWcZJIdlg8",
+            "ryllia.jpg": "1Az8UVcX2wDa69i6ibAlXfyOWLGoU7a1d"
+        },
+        "anything-v4.0-pruned-fp16.safetensors": {
+            "aoi.jpg": "1BC7jy5zTvAP4zLrqjjqymn_xn-PiM7dH",
+            "fiyu.jpg": "1B8X873HKtuoBeVE0HUYDTs_8iwTUq10l",
+            "ryllia.jpg": "1BD9gbsmU_uoPnYmNd3Z_RyGm65_FZUlV"
+        },
+        "anything-v4.5-pruned-fp16.ckpt": {
+            "aoi.jpg": "1B_gPJmRqF3_NuzSPkbFUo5iPlBi7T-ze",
+            "fiyu.jpg": "1BQXsWjoxjwMP6K_Kkrct3BWmMqC34auM",
+            "ryllia.jpg": "1BfO4lvAJi0tEdyD56gr375qPlwHMsIYn"
+        }
+    },
+    "Aurora": {
+        "AuroraONE.safetensors": {
+            "aoi.jpg": "1L_DFZZPcFwFjspUUwoiQHzCIb1T-7m3M",
+            "fiyu.jpg": "1-AdfA7U_nMeSEO5bY3w-Sl2ET0xJO5lx",
+            "ryllia.jpg": "1-2oeQ2hE3TNxvL97Otx97mLeVcjoLG5y"
+        },
+        "AuroraONE_F16.safetensors": {
+            "aoi.jpg": "1-BbS7dz0aXlnvB9vIvSaOI3MfQrMXyI4",
+            "fiyu.jpg": "1-Jg1Rl_mKP7V6gHNJ5GN8NlbRFCAruiE",
+            "ryllia.jpg": "1-CAZaJGPjlsmezDXzxoKCTvyAyugv1pu"
+        }
+    },
+    "Baka-Diffusion": {
+        "Baka-Diffusion%5BGeneral%5D.safetensors": {
+            "aoi.jpg": "1-KfyhrMXnBMNd9KbtuVVpkCxLFGMBrvJ",
+            "fiyu.jpg": "1-HeA9z9wXccIwtDu0AFrIpSdNYcu6e79",
+            "ryllia.jpg": "1-NUoRHv5EMxcWdPkcJ24G8VHt7Q7nb4y"
+        },
+        "Baka-Diffusion%5BS3D%5D.safetensors": {
+            "aoi.jpg": "1-UNIw8PgnMTxduLo6v3TfJtQ0VgSKdUv",
+            "fiyu.jpg": "1-QyXchxwfA-5jHJwYM0hYk4-O4ZAFjyD",
+            "ryllia.jpg": "1-Wr8SpwjxJ5_9ECEP-xQRilb-0aglcBs"
+        }
+    },
+    "BetterPastelMix": {
+        "BetterPastelMix.ckpt": {
+            "aoi.jpg": "1-yMvEkGOpBAYIGRYl_OVmn-RksAusXk0",
+            "fiyu.jpg": "1-tI9sSQqsLCn2Nv_nWbOVfs_3KASw7EV",
+            "ryllia.jpg": "100jqxghgA8tOA0VXh4sQv4hnIOaAUVrn"
+        },
+        "pastelmix-better-vae.ckpt": {
+            "aoi.jpg": "10SMy5FsO5u89I8vSHBZy-_2RaR0-zy7z",
+            "fiyu.jpg": "106vePTaMpHhR75QnxJC7eHwhNcZWA_Dm",
+            "ryllia.jpg": "10T5VLmye6JIww79QBaMLd18e_HopU0gT"
+        }
+    },
+    "BPModel": {
+        "bp_1024_with_vae_te.ckpt": {
+            "aoi.jpg": "10m3I5qb8wZt5qbRCCF12AX6t0UN5BQds",
+            "fiyu.jpg": "10ecRCyICDx6Kmlrv0gwwcWviyeX-2DOi",
+            "ryllia.jpg": "10mQs2gMyXGCiTha7jXtHOG6-HIqojPID"
+        }
+    },
+    "CamelliaMix": {
+        "CamelliaMix_2.5D_V1-fp16-pruned.safetensors": {
+            "aoi.jpg": "12OP3S_wcldWq0Q1fIG-4ijLDdUA6FYiE",
+            "fiyu.jpg": "12JM2FlwT3T9xPwJQvVq0onjgXYCgXW8X",
+            "ryllia.jpg": "12Su2bg0oyVmmTuRI0rMFE10Qh428P1kT"
+        },
+        "CamelliaMix_2.5D_V2.safetensors": {
+            "aoi.jpg": "12ZmB0ysBRzhq6mh7zHyiBdEG6YAUb4vx",
+            "fiyu.jpg": "12YniGc4TJAuQDdzhogWYrgQzXBHE0R2b",
+            "ryllia.jpg": "12_9KeEzZTT97QV-yAgIY7AYoE3wTP4Zv"
+        },
+        "CamelliaMix_2.5D_V3.safetensors": {
+            "aoi.jpg": "12r-RRYH4eJNBzdx1vu3iMKQTBUfm98rP",
+            "fiyu.jpg": "12k6Q7lYuHJyRxr1Sb-DAmJ86Ftcr81_c",
+            "ryllia.jpg": "12tzhVwt7pfD7pK7YmQBdP7vggm1iXtmx"
+        },
+        "CamelliaMix_Line_V1-fp16-pruned.safetensors": {
+            "aoi.jpg": "11M9bf6YZRCmce_2NOvTu_Er8wnQ-z-m6",
+            "fiyu.jpg": "11J5Lv-I67Ir_DtZ0G66VgOjqOtRfZvf8",
+            "ryllia.jpg": "11MXRUrwIDeUFpa1AG6S6NhBcVe76Lz09"
+        },
+        "CamelliaMIx_Line_V1.safetensors": {
+            "aoi.jpg": "111CNjX_B8Fd1hQE7GoMq5kQr2chFSMBG",
+            "fiyu.jpg": "10wK3rm8hks0QB5hZMJZITNSvBN_ipj5c",
+            "ryllia.jpg": "11ENWJOKvjQIEJlnltZL5gyuQ4Gsi-Po-"
+        },
+        "CamelliaMix_Line_V2.safetensors": {
+            "aoi.jpg": "11SHJybFK57UUTF_j5-R79YQqQ0RdHHRA",
+            "fiyu.jpg": "11QcXNn6HGypS7muyFWLbVyYP9jok3UBk",
+            "ryllia.jpg": "11TbA5v-OpSeAyiJlQzELxoPL01sjCc1y"
+        },
+        "CamelliaMix_NSFW.safetensors": {
+            "aoi.jpg": "13OpeBe1kHFCnEdMZCkqNFUduUmF41jhq",
+            "fiyu.jpg": "13ObW6V65pKyGBkpD8kHPAubucnzZP1yZ",
+            "ryllia.jpg": "13XvhuD6NWpceFWJCUOP2MEiFgk8DNefY"
+        },
+        "CamelliaMIx_NSFW_V1.1.safetensors": {
+            "aoi.jpg": "139UqK6cq_CfPqpOf60pyq5xpSld84AUc",
+            "fiyu.jpg": "136BlyBPpcOBZyrraNmbIyCRcelsIJDRY",
+            "ryllia.jpg": "13HBEHLndBnskiHS2vZxW7GIv-GGQIZNr"
+        },
+        "CamelliaMIx_V1.safetensors": {
+            "aoi.jpg": "11ftwc1KgqZGecurczdmOfPw6nccTg8Z1",
+            "fiyu.jpg": "11W2bSMdfwuvX6u9_AhM7L5MmAnFn9THH",
+            "ryllia.jpg": "11h8KpxeDML5zLuOR7gdXYrZU5Ax-XBS_"
+        },
+        "Camelliamix_V2-fp16-pruned.safetensors": {
+            "aoi.jpg": "123ewqUoSdkQ1G-l5nWhc6GQlF0HiaSVU",
+            "fiyu.jpg": "120yMndnZLMcBzcTqxzAffmZuPzUR4-BC",
+            "ryllia.jpg": "126r-T4bbyqlR53D12_aAiY_WcN-VOLIL"
+        },
+        "CamelliaMix_V2.safetensors": {
+            "aoi.jpg": "11nhqtVuVdmwQI3ahGQgz2hBBQFhUKxma",
+            "fiyu.jpg": "11jk-sI56hGxlEBxs0IiriEpKNa4wLokD",
+            "ryllia.jpg": "11opezAqjFxGmUvtQkLEm4qS2AvoBZCD_"
+        },
+        "CamelliaMix_V3.safetensors": {
+            "aoi.jpg": "11vCEb5FG3uPuevTtNKtg8EZMNYYyC62G",
+            "fiyu.jpg": "11u7CqNls_KjTG3_xeWeCF3SeShi42E73",
+            "ryllia.jpg": "11wenl9I1Bj_7TbzGybkSi6sJuz3Jonp4"
+        }
+    },
+    "chameleon-ai-mix": {
+        "chameleonaiMix_v10.safetensors": {
+            "aoi.jpg": "13ctIK-DCRepMW2Ll7qLzFJArto-ZZoQo",
+            "fiyu.jpg": "13bP6T3q6LAuCFXTtw0WJYJGOp6CYJLx4",
+            "ryllia.jpg": "13l5Ajz0j85znifBhZ113jMVIEjXX0Kvo"
+        }
+    },
+    "Cornflower_v7": {
+        "cornflower_v7.safetensors": {
+            "aoi.jpg": "143agjrwPV-aCY8OBfc0wBcweg5cdZFFD",
+            "fiyu.jpg": "14265E9xZUWo5_vUzL5MPHOR7dIKjojcG",
+            "ryllia.jpg": "149STOnkjeDDTJB9J9-ikk3Z-mNy7yK-c"
+        }
+    },
+    "counterfeit-v1.0": {
+        "counterfeit-v1.0.ckpt": {
+            "aoi.jpg": "14N5_dbbxXPcx8sv1e0RDV6xmgJajf1XQ",
+            "fiyu.jpg": "14MmK1pH_lS6XT1h2DKFDHWRlqvTKK85o",
+            "ryllia.jpg": "14OfAOJDXWxh8CM5_p8waQMyMS2y9KQr_"
+        }
+    },
+    "Counterfeit-V2.0": {
+        "Counterfeit-V2.0fp16.safetensors": {
+            "aoi.jpg": "14lLggF88IbuD8TVC6nRoRdNZTXa-_oQZ",
+            "fiyu.jpg": "14Z3LJ_368i8MnC6jWRVlW1GIk4EuXLN_",
+            "ryllia.jpg": "14nmeo1o1EXfB3HWx1GtdO8IA8d9PaY70"
+        }
+    },
+    "Counterfeit-V2.5": {
+        "Counterfeit-V2.1.safetensors": {
+            "aoi.jpg": "14wP4WPBmeaK2XTsh-SKNelur4qxtda8o",
+            "fiyu.jpg": "14tO7YPcniBHXOgO0xUtv5NUj_NbbwFvy",
+            "ryllia.jpg": "150un9aC7VHhm2A8bTJzqXHS-qKUy3i3u"
+        },
+        "Counterfeit-V2.2.safetensors": {
+            "aoi.jpg": "15A9ny_ZpB92jIqiZtBNjhKqpA2ZUIjoY",
+            "fiyu.jpg": "155Rq0vbYrqGPG7uafZN4j8NTccu0fQfV",
+            "ryllia.jpg": "15XefSP1pO-LTuFWco4UwekW35qzqx6k4"
+        },
+        "Counterfeit-V2.5_fp16.safetensors": {
+            "aoi.jpg": "15fv-ekbj5O1vMt-_gmfkgkX8o6C6ko2W",
+            "fiyu.jpg": "15fo-VXSGz8rN2vd-ajagzyK-SAmREeYb",
+            "ryllia.jpg": "15pYdnHVtVew-QczoPuD3dkHmsAd6l_Di"
+        }
+    },
+    "Counterfeit-V3.0": {
+        "Counterfeit-V3.0_fix_fp16.safetensors": {
+            "aoi.jpg": "16A5SOmHgvjLGwTBYe8nRTDkW7uUZZHaK",
+            "fiyu.jpg": "164AFnasur6jRzjcmIlR7Gp3PAm2-NwJT",
+            "ryllia.jpg": "16GKq0zBWiOjxEYwmGv_L-QrjJ_oroqar"
+        },
+        "Counterfeit-V3.0_fp16.safetensors": {
+            "aoi.jpg": "15w-8JYCQYfHh4iZJaY4MaQJtwGOZSF_W",
+            "fiyu.jpg": "15uwxbBvCU3sbzPAiRlEUc9nw1IUdMjcf",
+            "ryllia.jpg": "16-ZuhIJN0fXjNRsu61zNWe6WBpRVXQRc"
+        }
+    },
+    "dark-sushi-mix": {
+        "darkSushiMixMix_brighter.safetensors": {
+            "aoi.jpg": "16a0c5FPG9cDfeOK4vUzgYV6m8Snm8P7C",
+            "fiyu.jpg": "16Vg3nh0v6y-p2DUPiqmsHD6vqMj3dYD3",
+            "ryllia.jpg": "16aTbmJXlABIwSRkub5SOn5qTLrG2qJIh"
+        },
+        "darkSushiMixMix_brighterPruned.safetensors": {
+            "aoi.jpg": "16moOmhSUGbhd4rJMCmV8DnJZAji-A7Ue",
+            "fiyu.jpg": "16h7iu5JUBd3mB_Jk-JSRYFJ8BYOyiUDK",
+            "ryllia.jpg": "16pEorSnXZAPqlCcYBtM2GGeIHV39Jgvs"
+        },
+        "darkSushiMixMix_darker.safetensors": {
+            "aoi.jpg": "174PMX99J3INT120uQFOJt5m5VokMWome",
+            "fiyu.jpg": "171Q6UpW72yKRqaMbJsoV76Lnd9XJVmH1",
+            "ryllia.jpg": "179S4KtyotQZ7H-PVjYwRtJihRMMebUtY"
+        },
+        "darkSushiMixMix_darkerPruned.safetensors": {
+            "aoi.jpg": "17Fuq2cXZ7wdyqkbK2nuXc_-Z1xHewTJH",
+            "fiyu.jpg": "17FLgwWh54Dp8RO7ipMM_CUuqEcEP0eCO",
+            "ryllia.jpg": "17I5b-bSpj4nayjPquo1CxixG8k7_NDHZ"
+        }
+    },
+    "delicate-mix": {
+        "avairy-fp16.safetensors": {
+            "aoi.jpg": "17WHrgDhvK-3KedmDqJk179ItHpIJKT9k",
+            "fiyu.jpg": "17UMWl3NM41RRh3vl9olmZArE5smEZJtQ",
+            "ryllia.jpg": "17XFddn4XtQe2OWeB-JO8ZOYlQ0a7ntij"
+        },
+        "delicate-mix-fp16.safetensors": {
+            "aoi.jpg": "17fATW8nseIcHBAWIid74pvvWvadZihIC",
+            "fiyu.jpg": "17cI_17oL1UEEI0zKugLdVyL_-QGmQ3fB",
+            "ryllia.jpg": "17fAcCK9lAgW0JCGuuFtJnaWeaBE7BnMZ"
+        }
+    },
+    "EimisAnimeDiffusion_2.0v": {
+        "EimisAnimeModel_2-0.safetensors": {
+            "aoi.jpg": "17rEk4wqP0fsFhuA3HhQyFK3OXbvPmebW",
+            "fiyu.jpg": "17lFWENABvD7l0AZ_PvThrQHn3C7VMyYB",
+            "ryllia.jpg": "17svRdVbuPneqKkV4Rbhwi6QIrANCSnTG"
+        },
+        "EimisAnimeModel_2-0_alternative.safetensors": {
+            "aoi.jpg": "17x1Jg-IDservAFaRInh8H-MwhGD7MeSa",
+            "fiyu.jpg": "17wGQbr15wHdlDvZR9b4GUr-uqqA7jQFa",
+            "ryllia.jpg": "180g5skBaRM94itsboyQgTC9jU7g_G1ho"
+        }
+    },
+    "Everything": {
+        "Everything%20V1%20A.safetensors": {
+            "aoi.jpg": "18BB9ucIcOsJtGkVgPg_T6vbQrs-Y6avH",
+            "fiyu.jpg": "18Ak4kFGwnTEMpj7UpBoCOVzCrjnxY1r-",
+            "ryllia.jpg": "18DZM4s8rMIdtvG1DMGtjzrXedXnW5eJM"
+        },
+        "Everything%20V1%20Final%20.safetensors": {
+            "aoi.jpg": "18RYLw0or1gWXEJuPvBXs8pezTHAE327J",
+            "fiyu.jpg": "18JtzUKIUf7ZEBUxE_ErUziCMB6u1v6am",
+            "ryllia.jpg": "18WuNcGUygESKSoEs4PmGlIJgsD700uEk"
+        },
+        "Everything%20V1B.safetensors": {
+            "aoi.jpg": "18dNcUGmTtzRMM8XNeTBvvjdZRKC5_4lt",
+            "fiyu.jpg": "18cPSvhF4Z8qPMLLSk7c4-INbwc--W1mH",
+            "ryllia.jpg": "18eLA6AZUe6UjoqGQ8oRUwOL528Jeo206"
+        }
+    },
+    "Evt_V3": {
+        "Evt_V3_ema.ckpt": {
+            "aoi.jpg": "18vv1Csrl-vqLBKItQz_pPBBMIhE-CnWf",
+            "fiyu.jpg": "18tDhoiqXSH8c0zhHSb38RbgZLfHoM2RY",
+            "ryllia.jpg": "18xBHLHyHISkARt5UwFbfRegmdhAONnUt"
+        }
+    },
+    "ExpMix_Line": {
+        "expmixLine_v10.safetensors": {
+            "aoi.jpg": "19eEPCGMN1puoZM4WSyyNiDinbMxT5MWo",
+            "fiyu.jpg": "19EW8Nluiu4wA0kKq0_3qNCHEyg6METTz",
+            "ryllia.jpg": "19huuNo8ElUd7_AFkOV3T_9XzF64Vj0zt"
+        },
+        "expmixLine_v20.safetensors": {
+            "aoi.jpg": "19tuQI14d6BXIIc7Vk6XKS-F3LO7Pi6ve",
+            "fiyu.jpg": "19trm-ckifs6ayCEPwuVLbfp3XlLVXUY8",
+            "ryllia.jpg": "1A8QlWADB1XchdVLgK2k5lf-V9DR2Bnte"
+        },
+        "expmixLine_v3.safetensors": {
+            "aoi.jpg": "1ARY9OLzjpRX0qRlaWXRfll4EiSbI66qc",
+            "fiyu.jpg": "1APIw_PtXJB8zh9aUsE8L8HC8kPRh1tEK",
+            "ryllia.jpg": "1ASWkZeM5ec6fGkSGU7WqWpHgGH2yj3Jv"
+        }
+    },
+    "Grapefruit": {
+        "grapefruitV2.4.safetensors": {
+            "aoi.jpg": "1Ag5QHNBebfUGGhzxCSD3bsR7t45ai6wD",
+            "fiyu.jpg": "1Ae_6taQ66KvLLUd8JIHt_zf7cHebwgGb",
+            "ryllia.jpg": "1Ai1RVFAtcwLk6xkF5-wRzkIwlRImrG4I"
+        },
+        "grapefruitV3.1.safetensors": {
+            "aoi.jpg": "1Az-xqs4tbagKAHsdrwx2JJsYoJxqbhD8",
+            "fiyu.jpg": "1Awm7Cr77OC_ZZ9KUlevZnJFqGUxBxgJU",
+            "ryllia.jpg": "1B3q7dO1MZJ1LhpaH_Vp8l3R_vBKe4LV8"
+        },
+        "grapefruitV3.2-Beta.safetensors": {
+            "aoi.jpg": "1BFDE06BFgFynHr0S4U7gVXZAzsj3E588",
+            "fiyu.jpg": "1BEubGLrEBb6mdNXjXveO1sJCHXi7yWvf",
+            "ryllia.jpg": "1BI0pJgaYLQCshlfFxNJbABgHMxfdEIam"
+        },
+        "grapefruitV3.safetensors": {
+            "aoi.jpg": "1BWmIU955fT5AVNjqv5LoNOge3uci59jF",
+            "fiyu.jpg": "1BUnF6cmuQNQPDrFebvZcub-Ne7E6rkDW",
+            "ryllia.jpg": "1BYDe9CV74aIgD-BKq1KI8uW_kAGwRc5Z"
+        },
+        "grapefruitV4.1.ckpt": {
+            "aoi.jpg": "1BiH7PHcCzcimEQyPUkNduMPCWwy-1t6d",
+            "fiyu.jpg": "1BhnCxFLPsP0ARNNcgqzQ3ON07JOcpzZz",
+            "ryllia.jpg": "1BjjVh2v40PXImLN4MFkkHJz_Re3UHmQ4"
+        },
+        "grapefruitv4.safetensors": {
+            "aoi.jpg": "1BxZnWeUCphw2R6Z09_7NM_Id2QfFFTna",
+            "fiyu.jpg": "1BrBRMmWyGILQ5oMsdY9g29leeZUmrkNf",
+            "ryllia.jpg": "1ByVF5reObyDjHv3zvU5D8QTh8_VTXqc0"
+        },
+        "lemon.safetensors": {
+            "aoi.jpg": "1CIsTAOSohcBQeIxBUjKZkr5-2j7HNaM6",
+            "fiyu.jpg": "1C2kc9H3BIrLfSB7OJtptQkWRlMQHLSuR",
+            "ryllia.jpg": "1CU1qvRKv4dtYHZviyCnwKRLuckvtw6bJ"
+        }
+    },
+    "HDDream-G": {
+        "HDDream-Gape.safetensors": {
+            "aoi.jpg": "1CbuAuxhCXXi5IEtIgloVX28Vm3cirrfw",
+            "fiyu.jpg": "1CYbfY9USo3kmwLyrtUNwZDoMmNR9_64V",
+            "ryllia.jpg": "1Cc--ZuZcnWI6xJhj8PgcqRl5SehI5IaU"
+        }
+    }
+}
