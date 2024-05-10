@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Samples</title>
+</head>
+<body>
+  <p>
+    <b>CTRL + F is your friend.</b>
+  </p>
+  <p>
+    Click on the model name to show the sample image
+  </p>
+
+  <p>
+    aoi prompt:<br>
+    <textarea disabled>
+1girl, white hair, green eyes, long hair, messy hair, choker, shoulder, collarbone, green shirt, white jacket, open jacket, off-shoulder jacket, indoors, window
+    </textarea>
+  </p>
+
+  <p>
+    fiyu prompt:<br>
+    <textarea disabled>
+1girl, blonde hair, blue eyes, short hair, wavy hair, hair ribbon, blue ribbon, detached sleeves, breastplate blue dress, armored dress, portrait
+    </textarea>
+  </p>
+
+  <p>
+    ryllia prompt:<br>
+    <textarea disabled>
+1girl, red hair, ponytail, pointy ears, yellow eyes, poncho, blue skirt, star necklace, outdoors, flowers, looking at viewer
+    </textarea>
+  </p>
+
+  <p>
+    negative prompt (for all): <br>
+    <textarea disabled>
+(worst quality, low quality:1.4), nsfw
+    </textarea>
+    <br>
+    seeds:<br>3252012142,3252012143,3252012144
+  </p>
+  <script>
+    // lmao good enough
+    // copypasted lmao
+    fetch('models.samples.json').then(
+      response => response.json()
+    ).then((json) => {
+      let html_lol = ''
+      const json_data = json;
+      for (key in json_data) {
+        const models = json_data[key];
+        html_lol += `<h1>${key}</h1>`;
+        for (model in models) {
+          const samples = json_data[key][model];
+          html_lol += `<h2>${model}</h2>`;
+          for(sample in samples) {
+            const imageId = json_data[key][model][sample];
+            const imageUrl = `https://lh3.googleusercontent.com/d/${imageId}`;
+            const imgElement = `<img src="${imageUrl}" loading="lazy" width="100%">`;
+            html_lol += `<details><summary>${sample.split('.')[0]}</summary>${imgElement}</details>`;
+          }
+        }
+      }
+      document.body.innerHTML += html_lol;
+    });
+  </script>
+</body>
+</html>
