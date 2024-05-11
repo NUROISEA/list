@@ -4,8 +4,38 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Samples</title>
+
+  <style>
+    details {
+      border: 1px solid grey;
+      border-radius: 5px;
+      padding: 10px;
+      margin: 5px;
+    }
+
+    small {
+      font-size: small;
+    }
+
+    @media screen and (max-width: 500px) {
+      img {
+        width: 100%;
+        max-width: none;
+      }
+    }
+
+    img {
+      max-width: 500px;
+      width: 100%;
+    }
+
+    :target {
+      background-color: lightgoldenrodyellow;
+    } 
+  </style>
 </head>
 <body>
+  <a href="index.html">&lt;&lt; back to model link list</a>
   <p>
     <b>CTRL + F is your friend.</b>
   </p>
@@ -13,59 +43,125 @@
     Click on the model name to show the sample image
   </p>
 
-  <p>
-    aoi prompt:<br>
-    <textarea disabled>
-1girl, white hair, green eyes, long hair, messy hair, choker, shoulder, collarbone, green shirt, white jacket, open jacket, off-shoulder jacket, indoors, window
-    </textarea>
-  </p>
+  <details>
+    <summary>Prompts and settings</summary>
+    <details>
+      <summary>aoi</summary>
+      <p>
+        1girl, white hair, green eyes, long hair, messy hair, choker, shoulder, collarbone, green shirt, white jacket, open
+        jacket, off-shoulder jacket, indoors, window
+      </p>
+    </details>
 
-  <p>
-    fiyu prompt:<br>
-    <textarea disabled>
-1girl, blonde hair, blue eyes, short hair, wavy hair, hair ribbon, blue ribbon, detached sleeves, breastplate blue dress, armored dress, portrait
-    </textarea>
-  </p>
+    <details>
+      <summary>fiyu</summary>
+      <p>
+        1girl, blonde hair, blue eyes, short hair, wavy hair, hair ribbon, blue ribbon, detached sleeves, breastplate blue
+        dress, armored dress, portrait
+      </p>
+    </details>
 
-  <p>
-    ryllia prompt:<br>
-    <textarea disabled>
-1girl, red hair, ponytail, pointy ears, yellow eyes, poncho, blue skirt, star necklace, outdoors, flowers, looking at viewer
-    </textarea>
-  </p>
+    <details>
+      <summary>ryllia</summary>
+      <p>
+        1girl, red hair, ponytail, pointy ears, yellow eyes, poncho, blue skirt, star necklace, outdoors, flowers, looking at
+        viewer
+      </p>
+    </details>
 
-  <p>
-    negative prompt (for all): <br>
-    <textarea disabled>
-(worst quality, low quality:1.4), nsfw
-    </textarea>
-    <br>
-    seeds:<br>3252012142,3252012143,3252012144
-  </p>
+    <details>
+      <summary>negaive prompt (for all)</summary>
+      <p>
+        (worst quality, low quality:1.4), nsfw
+      </p>
+    </details>
+
+    <p>
+      seeds
+      <p>3252012142, 3252012143, 3252012144</p>
+    </p>
+
+    <p>
+      width x height
+      <p>
+        512 x 768
+      </p>
+    </p>
+
+    <p>
+      generated with:
+      <p>
+        <a href=https://github.com/R3gm/stablepy>R3gm's stablepy python library</a>
+      </p>
+    </p>
+  </details>
+
   <script>
-    // lmao good enough
-    // copypasted lmao
     fetch('models.samples.json').then(
       response => response.json()
     ).then((json) => {
       let html_lol = ''
       const json_data = json;
+
+      let content = '';
+
       for (key in json_data) {
         const models = json_data[key];
-        html_lol += `<h1>${key}</h1>`;
+
+        let modelRepo = elem('h2', `${key} <small>[placeholdertext]</small>`, { id: key });
+        let modelSampleContent = '';
+
         for (model in models) {
           const samples = json_data[key][model];
-          html_lol += `<h2>${model}</h2>`;
+          let samplesTitle = elem('b', model);
+          let samplesContent = '';
+          
           for(sample in samples) {
             const imageId = json_data[key][model][sample];
-            const imageUrl = `https://lh3.googleusercontent.com/d/${imageId}`;
-            const imgElement = `<img src="${imageUrl}" loading="lazy" width="100%">`;
-            html_lol += `<details><summary>${sample.split('.')[0]}</summary>${imgElement}</details>`;
+
+            samplesContent += detailsElem(
+              sample, 
+              imageElem(imageId)
+            );
           }
+
+          modelSampleContent += detailsElem(model, samplesContent, { id: model });
+        }
+
+        content += elem('div', modelRepo + modelSampleContent);
+      }
+
+      document.body.innerHTML += content;
+
+      if (window.location.hash) {
+        var targetId = window.location.hash.substring(1);
+        var target = document.getElementById(targetId);
+        if (target) {
+          target.scrollIntoView();
         }
       }
-      document.body.innerHTML += html_lol;
     });
+
+    function elem(tag, content, attr={}) {
+      const attributeString = Object.keys(attr)
+        .map(key => `${key}=${attr[key]}`)
+        .join(' ');
+      
+      return `<${tag} ${attributeString}>${content}</${tag}>`;
+    }
+
+    function imageElem(id) {
+      const imageUrl = `https://lh3.googleusercontent.com/d/${id}`;
+      return elem('img', '', { 
+        src: imageUrl, loading: 'lazy'
+      });
+    }
+
+    function detailsElem(title, content, attr={}) {
+      const summary = elem('summary', title);
+      const details = elem('details', summary + content, attr);
+      return details;
+    }
   </script>
 </body>
 </html>
