@@ -4,35 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Samples</title>
-
-  <style>
-    details {
-      border: 1px solid grey;
-      border-radius: 5px;
-      padding: 10px;
-      margin: 5px;
-    }
-
-    small {
-      font-size: small;
-    }
-
-    @media screen and (max-width: 800px) {
-      img {
-        width: 100%;
-        max-width: none;
-      }
-    }
-
-    img {
-      max-width: 800px;
-      width: 100%;
-    }
-
-    :target {
-      background-color: lightgoldenrodyellow;
-    } 
-  </style>
+  <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
   <a href="index.html">&lt;&lt; back to model link list</a>
@@ -96,6 +68,7 @@
     </p>
   </details>
 
+  <script src="js/main.js"></script>
   <script>
     fetch('models.samples.json').then(
       response => response.json()
@@ -108,7 +81,8 @@
       for (key in json_data) {
         const models = json_data[key];
 
-        let modelRepo = elem('h2', `${key} <small>[placeholdertext]</small>`, { id: key });
+        let linkLink = elem('a', 'links', {href: `index.html#${key}`});
+        let modelRepo = elem('h2', `${key} <small>${linkLink}</small>`, { id: key });
         let modelSampleContent = '';
 
         for (model in models) {
@@ -133,34 +107,14 @@
 
       document.body.innerHTML += content;
 
-      if (window.location.hash) {
-        var targetId = window.location.hash.substring(1);
-        var target = document.getElementById(targetId);
-        if (target) {
-          target.scrollIntoView();
-        }
-      }
+      scrollToUrlHash(`No samples for __target__ yet. sry.`);
     });
-
-    function elem(tag, content, attr={}) {
-      const attributeString = Object.keys(attr)
-        .map(key => `${key}=${attr[key]}`)
-        .join(' ');
-      
-      return `<${tag} ${attributeString}>${content}</${tag}>`;
-    }
 
     function imageElem(id) {
       const imageUrl = `https://lh3.googleusercontent.com/d/${id}`;
       return elem('img', '', { 
         src: imageUrl, loading: 'lazy'
       });
-    }
-
-    function detailsElem(title, content, attr={}) {
-      const summary = elem('summary', title);
-      const details = elem('details', summary + content, attr);
-      return details;
     }
   </script>
 </body>

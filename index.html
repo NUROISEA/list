@@ -4,33 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
-  <style>
-    code {
-      padding: 5px;
-      border-radius: 5px;
-      border: 1px solid grey;
-      margin: 15px;
-    }
-
-    code::before {
-      content: "(click to copy) ";
-    }
-
-    small {
-      font-size: small;
-    }
-
-     details {
-      border: 1px solid grey;
-      border-radius: 5px;
-      padding: 10px;
-      margin: 5px;
-    }
-
-    :target {
-      background-color: lightgoldenrodyellow;
-    }
-  </style>
+  <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
   <p>
@@ -43,6 +17,7 @@
   <p>
     <a href="samples.html"> Click here to see samples for the models (incomplete atm)</a>
   </p>
+  <script src="js/main.js"></script>
   <script>
     fetch('models.json').then(
       response => response.json()
@@ -58,7 +33,11 @@
 
         const source = elem('a', 'source', {href: repo});
         const smolSource = elem('small', source);
-        const header = elem('h2', `${key} ${smolSource}`, { id: key });
+
+        const sample = elem('a', 'samples', {href: `samples.html#${key}`});
+        const smolSample = elem('small', sample);
+
+        const header = elem('h2', `${key} ${smolSource} ${smolSample}`, { id: key });
         innerContent += header;
 
         for(model in models) {
@@ -76,43 +55,8 @@
 
       document.body.innerHTML += content;
 
-      if (window.location.hash) {
-        var targetId = window.location.hash.substring(1);
-        var target = document.getElementById(targetId);
-        if (target) {
-          target.scrollIntoView();
-        }
-      }
+      scrollToUrlHash();
     });
-
-    function copy(elem) {
-      copyTextToClipboard(elem.innerHTML);
-    }
-
-    function copyTextToClipboard(text) {
-      var textarea = document.createElement('textarea');
-      textarea.value = text;
-      document.body.appendChild(textarea);
-      textarea.select();
-      document.execCommand('copy');
-      document.body.removeChild(textarea);
-
-      alert(`Copied: \n ${text}`);
-    }
-
-    function elem(tag, content, attr = {}) {
-      const attributeString = Object.keys(attr)
-        .map(key => `${key}=${attr[key]}`)
-        .join(' ');
-
-      return `<${tag} ${attributeString}>${content}</${tag}>`;
-    }
-
-    function detailsElem(title, content, attr={}) {
-      const summary = elem('summary', title);
-      const details = elem('details', summary + content, attr);
-      return details;
-    }
   </script>
 </body>
 </html>

@@ -1,0 +1,48 @@
+details {
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+}
+
+img {
+    max-width: 1000px;
+    width: 100%;
+}
+
+code {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    margin: 15px;
+}
+
+code::before {
+    content: "(click to copy) ";
+}
+
+small {
+    font-size: small;
+}
+
+body {
+    margin: 0;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+
+@media only screen and (max-width: 1000px) {
+    body {
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+.targeted {
+    background-color: lightgoldenrodyellow;
+}
