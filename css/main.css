@@ -10,6 +10,12 @@ img {
     width: 100%;
 }
 
+img#pagecounter {
+    padding: 10px;
+    width: auto;
+    height: 100px;
+}
+
 code {
     padding: 5px;
     border-radius: 5px;
@@ -45,4 +51,8 @@ body {
 
 .targeted {
     background-color: lightgoldenrodyellow;
+}
+
+div.heading {
+    text-align: center;
 }
